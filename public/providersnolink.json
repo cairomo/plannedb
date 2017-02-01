@@ -1,0 +1,3026 @@
+{
+  "Bureau of Family Health Services" : {
+    "name" : "Bureau of Family Health Services",
+    "address" : "RSA Tower\n201 Monroe Street, Suite 1364\nMontgomery, AL 36104",
+    "phone" : "1 (877) 252-3324",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Public Health" : {
+    "name" : "Division of Public Health",
+    "address" : "Section of Women's, Children's and Family Health\n3601 C Street\nSuite 322\nAnchorage, AK 99503-5923",
+    "phone" : "1 (800) 410-6266 (in state)",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Department of Health" : {
+    "name" : "Department of Health",
+    "address" : "American Samoa Government\nTerritory of American Samoa\nPago Pago, AS 96799",
+    "phone" : "011 (684) 633-2135",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Bureau of Chronic Disease Prevention and Control" : {
+    "name" : "Bureau of Chronic Disease Prevention and Control",
+    "address" : "Arizona Department of Health Services\n1740 W Adams, No 205\nPhoenix, AZ 85007",
+    "phone" : "1 (888) 257-8502",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Arkansas Department of Health" : {
+    "name" : "Arkansas Department of Health",
+    "address" : "4815 West Markham Street, Slot 11\nLittle Rock, AR 72205",
+    "phone" : "1 (877) 670-2273",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Cancer Detection and Treatment Branch" : {
+    "name" : "Cancer Detection and Treatment Branch",
+    "address" : "1501 Capitol Avenue\nSuite 714001\nSacramento, CA 95814",
+    "phone" : "1 (800) 511-2300",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Colorado Department of Public Health and Environment" : {
+    "name" : "Colorado Department of Public Health and Environment",
+    "address" : "PSD-WWC-A5\n4300 Cherry Creek Drive South\nDenver, CO 80246–1530",
+    "phone" : "1 (866) 951-9355",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Screening Program" : {
+    "name" : "Breast and Cervical Cancer Screening Program",
+    "address" : "PO Box 500409\nSaipan, MP 96950",
+    "phone" : "(670) 236-8703",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Connecticut Department of Public Health" : {
+    "name" : "Connecticut Department of Public Health",
+    "address" : "410 Capitol Avenue, MS  11CCS Hartford, CT 06106",
+    "phone" : "(860) 509-7804",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Delaware Department of Health and Social Services" : {
+    "name" : "Delaware Department of Health and Social Services",
+    "address" : "Thomas Collins Building, Suite 11\n540 South DuPont Highway\nDover, DE 19901",
+    "phone" : "1 (800) 464-4357",
+    "service" : "breast and cervical cancer screening"
+  },
+  "District of Columbia Department of Health" : {
+    "name" : "District of Columbia Department of Health",
+    "address" : "899 North Capitol Street, NE\nWashington, DC 20002",
+    "phone" : "(202) 442-5900",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Bureau of Chronic Disease Prevention" : {
+    "name" : "Bureau of Chronic Disease Prevention",
+    "address" : "Florida Department of Health\n4052 Bald Cypress Way, Bin  A-18\nTallahassee, FL 32399-1744",
+    "phone" : "1 (800) 227-2345",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Office of Cancer Prevention, Screening, and Treatment" : {
+    "name" : "Office of Cancer Prevention, Screening, and Treatment",
+    "address" : "Health Promotion and Disease Prevention Program\nGeorgia Department of Public Health\n2 Peachtree Street, NW Rm 16-304\nAtlanta, GA 30303-3142",
+    "phone" : "(404) 657-7735",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Public Health" : {
+    "name" : "Division of Public Health",
+    "address" : "Department of Public Health and Social Services\n123 Chalan Kareta, Route 10\nMangilao, GU 96913",
+    "phone" : "(671) 735-0671",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Control Program" : {
+    "name" : "Breast and Cervical Cancer Control Program",
+    "address" : "Hawaii State Department of Health\n601 Kamokila Boulevard  344\nKapolei, HI 96707",
+    "phone" : "(808) 692-7480",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Health" : {
+    "name" : "Division of Health",
+    "address" : "Idaho Department of Health and Welfare\n450 W State Street, 4th Floor\nPO Box 83720\nBoise, ID 83720–0036",
+    "phone" : "1 (800) 926-2588",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Office of Women's Health Services" : {
+    "name" : "Office of Women's Health Services",
+    "address" : "Illinois Department of Public Health\n535 West Jefferson Street, First Floor\nSpringfield, IL 62761–0001",
+    "phone" : "1 (888) 522-1282",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Indiana State Department of Health" : {
+    "name" : "Indiana State Department of Health",
+    "address" : "2 North Meridian Street\nMailstop 6B-F4\nIndianapolis, IN 46204",
+    "phone" : "1 (800) 433-0746",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Iowa Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Iowa Breast and Cervical Cancer Early Detection Program",
+    "address" : "Iowa Department of Public Health\n321 East 12th Street\nDes Moines, IA 50319–0075",
+    "phone" : "1 (800) 369-2229",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Office of Health Promotion" : {
+    "name" : "Office of Health Promotion",
+    "address" : "Kansas Department of Health and Environment\nState Office Building\n1000 Southwest Jackson, Suite 230\nTopeka, KS 66612–1274",
+    "phone" : "1 (877) 277-1368",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Cabinet for Health and Family Services" : {
+    "name" : "Cabinet for Health and Family Services",
+    "address" : "Division of Women's Physical and Mental Health\nDepartment of Public Health\n275 East Main Street, HS2GW-A\nFrankfort, KY 40621–0001",
+    "phone" : "1 (800) 462-6122",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Louisiana State University Health Sciences Center" : {
+    "name" : "Louisiana State University Health Sciences Center",
+    "address" : "School of Public Health\n1615 Poydras Street, Suite 1400\nNew Orleans, LA 70112\n",
+    "phone" : "1 (888) 599-1073",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Maine Center for Disease Control and Prevention DHHS" : {
+    "name" : "Maine Center for Disease Control and Prevention DHHS",
+    "address" : "286 Water Street\nKey Bank Plaza, 4th Floor\n11 State House Station\nAugusta, ME 04333–0011",
+    "phone" : "1 (800) 350-5180",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Center for Cancer Surveillance and Control" : {
+    "name" : "Center for Cancer Surveillance and Control",
+    "address" : "Maryland Department of Health and Mental Hygiene\n201 West Preston Street, Third Floor\nBaltimore, MD 21201",
+    "phone" : "1 (800) 477-9774",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Massachusetts Department of Health" : {
+    "name" : "Massachusetts Department of Health",
+    "address" : "250 Washington Street, Fourth Floor\nBoston, MA 02108-4619",
+    "phone" : "1 (877) 414-4447",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Cancer Prevention and Control Section" : {
+    "name" : "Cancer Prevention and Control Section",
+    "address" : "Michigan Department of Community Health\nWashington Square Building, 5th Floor\n109 Michigan Avenue\nLansing, MI 48913",
+    "phone" : "1 (800) 922-6266",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Minnesota Department of Health" : {
+    "name" : "Minnesota Department of Health",
+    "address" : "85 East Seventh Place\nPO Box 64882\nSt Paul, MN 55164-0882",
+    "phone" : "1 (888) 643-2584",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Mississippi State Department of Health" : {
+    "name" : "Mississippi State Department of Health",
+    "address" : "570 East Woodrow Wilson\nPO Box 1700\nJackson, MS 39215-1700",
+    "phone" : "1 (800) 721-7222",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Cancer Control Unit" : {
+    "name" : "Cancer Control Unit",
+    "address" : "Missouri Department of Health and Senior Services\n920 Wildwood Drive\nPO Box 570\nJefferson City, MO 65102-0570",
+    "phone" : "(573) 522-2845",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Montana Department of Public Health and Human Services" : {
+    "name" : "Montana Department of Public Health and Human Services",
+    "address" : "Cogswell Building\n1400 Broadway, C-317\nPO Box 202951\nHelena, MT 59620–2951",
+    "phone" : "1 (888) 803-9343",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Office of Women's Health" : {
+    "name" : "Office of Women's Health",
+    "address" : "Nebraska Health and Human Services\n301 Centennial Mall South\n3rd Floor\nPO Box 94817\nLincoln, NE 68509-4817",
+    "phone" : "1 (800) 532-2227",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Access to Healthcare Network" : {
+    "name" : "Access to Healthcare Network",
+    "address" : "4001 S Virginia St Suite F\nReno, NV 89502",
+    "phone" : "1 (877) 385-2345",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Public Health Services" : {
+    "name" : "Division of Public Health Services",
+    "address" : "New Hampshire Department of Health and Human Services\n29 Hazen Drive\nConcord, NH 03301-4604\n",
+    "phone" : "1 (800) 852-3345 ext 4931",
+    "service" : "breast and cervical cancer screening"
+  },
+  "New Jersey Department of Health and Senior Services" : {
+    "name" : "New Jersey Department of Health and Senior Services",
+    "address" : "50 East State Street, Sixth Floor\nPO Box 364\nTrenton, NJ 08625–0364",
+    "phone" : "1 (800) 328-3838",
+    "service" : "breast and cervical cancer screening"
+  },
+  "New Mexico Department of Health" : {
+    "name" : "New Mexico Department of Health",
+    "address" : "5301 Central Avenue NE, Suite 800\nAlbuquerque, NM 87108",
+    "phone" : "1 (877) 852-2585",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Bureau of Chronic Disease Services" : {
+    "name" : "Bureau of Chronic Disease Services",
+    "address" : "New York State Department of Health\n150 Broadway, 3rd Floor West\nAlbany, NY 12204",
+    "phone" : "1 (866) 442-2262",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Public Health" : {
+    "name" : "Division of Public Health",
+    "address" : "North Carolina Department of Health and Human Services\n5505 Six Forks Road\nRaleigh, NC 27609",
+    "phone" : "(919) 707-5300",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Cancer Prevention and Control" : {
+    "name" : "Division of Cancer Prevention and Control",
+    "address" : "North Dakota Department of Health\n600 East Boulevard Avenue, Department 301\nBismarck, ND 58505–0200",
+    "phone" : "1 (800) 449-6636",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Ohio Department of Health" : {
+    "name" : "Ohio Department of Health",
+    "address" : "246 North High Street\nColumbus, OH 43215",
+    "phone" : "1 (800) 4-CANCER",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Oklahoma State Department of Health" : {
+    "name" : "Oklahoma State Department of Health",
+    "address" : "1000 Northeast Tenth Street\nOklahoma City, OK 73117-1299",
+    "phone" : "1 (888) 669-5934",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Office of Family Health" : {
+    "name" : "Office of Family Health",
+    "address" : "Oregon Department of Human Services\n800 NE Oregon Street, Suite 370\nPortland, OR 97232–2162",
+    "phone" : "1 (877) 255-7070",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Pennsylvania Department of Health" : {
+    "name" : "Pennsylvania Department of Health",
+    "address" : "Room 1011 Health and Welfare Building\nHarrisburg, PA 17120\n",
+    "phone" : "1 (800) 215-7494",
+    "service" : "breast and cervical cancer screening"
+  },
+  "University of Puerto Rico" : {
+    "name" : "University of Puerto Rico",
+    "address" : "Comprehensive Cancer Center\nMedical Sciences Campus\nPO Box 70344 PMB 371\nSan Juan, PR 00936",
+    "phone" : "(787) 772-8300 ext 1122",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Republic of Palau Ministry of Health" : {
+    "name" : "Republic of Palau Ministry of Health",
+    "address" : "PO Box 6027\nKoror, PW 96940",
+    "phone" : "011 (680) 488-4612",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Rhode Island Cancer Control Program" : {
+    "name" : "Rhode Island Cancer Control Program",
+    "address" : "Rhode Island Department of Health\n3 Capitol Hill, Room 408\nProvidence, RI 02908",
+    "phone" : "(401) 222-4324",
+    "service" : "breast and cervical cancer screening"
+  },
+  "South Carolina Department of Health and Environmental Control (DHEC)" : {
+    "name" : "South Carolina Department of Health and Environmental Control (DHEC)",
+    "address" : "Bureau of Chronic Disease Prevention and Control\nDivision of Cancer Prevention and Control\n2100 Bull Street\nColumbia, SC 29204\n",
+    "phone" : "1 (800) 227-2345",
+    "service" : "breast and cervical cancer screening"
+  },
+  "South Dakota Department of Health" : {
+    "name" : "South Dakota Department of Health",
+    "address" : "615 East Fourth Street\nPierre, SD 57501–1700",
+    "phone" : "(800) 738-2301",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Tennessee Department of Health" : {
+    "name" : "Tennessee Department of Health",
+    "address" : "Cordell Hull Building, Sixth Floor\n425 Fifth Avenue North\nNashville, TN 37247–5262\n",
+    "phone" : "1 (877) 969-6636",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Texas Department of State Health Services" : {
+    "name" : "Texas Department of State Health Services",
+    "address" : "Preventive and Primary Care Unit\n1100 West 49th Street\nMail Code 1923\nPO Box 149347\nAustin, TX 78714-9347\n",
+    "phone" : "(512) 776-7796",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Bureau of Health Promotion" : {
+    "name" : "Bureau of Health Promotion",
+    "address" : "Utah Department of Health\n288 North 1460 West\nPO Box 142107\nSalt Lake City, UT 84114–2107\n",
+    "phone" : "1 (800) 717-1811",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Health Promotion and Disease Prevention" : {
+    "name" : "Division of Health Promotion and Disease Prevention",
+    "address" : "Vermont Department of Health\n108 Cherry Street\nPO Box 70\nBurlington, VT 05402-0070",
+    "phone" : "1 (800) 508-2222",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Virginia Department of Health" : {
+    "name" : "Virginia Department of Health",
+    "address" : "109 Governor Street, 8th Floor\nRichmond, VA 23219\n",
+    "phone" : "1 (866) 395-4968",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Washington State Department of Health" : {
+    "name" : "Washington State Department of Health",
+    "address" : "Washington Breast and Cervical Health Program\n111 Israel Road SE\nTumwater, WA 98501",
+    "phone" : "1 (888) 438-2247",
+    "service" : "breast and cervical cancer screening"
+  },
+  "West Virginia Department of Health and Human Resources" : {
+    "name" : "West Virginia Department of Health and Human Resources",
+    "address" : "350 Capital Street, Room 427\nCharleston, WV 25301-3714",
+    "phone" : "1 (800) 642-8522",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Division of Public Health" : {
+    "name" : "Division of Public Health",
+    "address" : "Wisconsin Department of Health Services\nOne West Wilson Street, Room 218\nPO Box 2659\nMadison, WI 53701-2659\n",
+    "phone" : "(608) 266-8311",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Preventive Health and Safety Division" : {
+    "name" : "Preventive Health and Safety Division",
+    "address" : "Wyoming Department of Health\n6101 Yellowstone Road, Room 259A\nCheyenne, WY 82002\n",
+    "phone" : "1 (800) 264-1296",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "Department of Health and Social Services\nPO Box 69\nBarrow, AK 99723",
+    "phone" : "1 (800) 478-6606 ext 270",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "PO Box 948\nTahlequah, OK 74465",
+    "phone" : "(918) 458-4491",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast & Cervical Cancer Early Detection Program" : {
+    "name" : "Breast & Cervical Cancer Early Detection Program",
+    "address" : "CDC BCCEDP - Women’s Health\nCheyenne River Health Center\nPO Box 590\nEagle Butte, SD 57625",
+    "phone" : "(605) 964-0556",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "PO Box 123\nKykotsmovi, AZ 86039",
+    "phone" : "(928) 734-1150",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Kaw Nation Programs and Services" : {
+    "name" : "Kaw Nation Programs and Services",
+    "address" : "3151 East River Road\nNewkirk, OK 74647-0474",
+    "phone" : "1 (580) 362-1039 ext 228",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Women's Wellness Program" : {
+    "name" : "Women's Wellness Program",
+    "address" : "15 N Morris Street\nPortland, OR 97227",
+    "phone" : "1 (503) 230-9875 ext 251",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "PO Box 1390\nWindow Rock, AZ 86515",
+    "phone" : "(928) 871-6249 ext 23",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "3104 Old Olympic Highway, SE\nShelton, WA 98584",
+    "phone" : "1 (800) 924-3984",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "4320 Diplomacy Drive, Suite 2360\nAnchorage, AK 99508\n",
+    "phone" : "(907) 729-8891",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "222 Tongass Drive\nSitka, AK 99835",
+    "phone" : "1 (888) 388-8782",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Breast and Cervical Cancer Early Detection Program" : {
+    "name" : "Breast and Cervical Cancer Early Detection Program",
+    "address" : "700 Chief Eddy Hoffman Highway\nPO Box 287, Pouch 3000\nBethel, AK 99559\n",
+    "phone" : "(907) 543-6996",
+    "service" : "breast and cervical cancer screening"
+  },
+  "Milwaukee - Mitchell Street Health Center" : {
+    "name" : "Milwaukee - Mitchell Street Health Center",
+    "address" : "1710 South 7th Street Suite 300\nMilwaukee, WI, 53204",
+    "phone" : "(414) 645-8383",
+    "service" : "emergency contraception, birth control"
+  },
+  "Milwaukee-northwest Health Center" : {
+    "name" : "Milwaukee-northwest Health Center",
+    "address" : "5380 W Fond Du Lac Avenue\nMilwaukee, WI, 53216",
+    "phone" : "(414) 536-6690",
+    "service" : "emergency contraception, birth control"
+  },
+  "Oshkosh Health Center" : {
+    "name" : "Oshkosh Health Center",
+    "address" : "378 S Koeller St\nOshkosh, WI, 54902",
+    "phone" : "(920) 235-0115",
+    "service" : "emergency contraception, birth control"
+  },
+  "Portage Health Center" : {
+    "name" : "Portage Health Center",
+    "address" : "132 W Cook Street\npo Box 887\nPortage, WI, 53901",
+    "phone" : "(608) 742-1551",
+    "service" : "emergency contraception, birth control"
+  },
+  "Racine Health Center" : {
+    "name" : "Racine Health Center",
+    "address" : "834 S Main Street\nRacine, WI, 53403",
+    "phone" : "(262) 634-2060",
+    "service" : "emergency contraception, birth control"
+  },
+  "Sheboygan Health Center" : {
+    "name" : "Sheboygan Health Center",
+    "address" : "2108 Kohler Memorial Drive\nSheboygan, WI, 53081",
+    "phone" : "(920) 458-9401",
+    "service" : "emergency contraception, birth control"
+  },
+  "Waukesha Health Center" : {
+    "name" : "Waukesha Health Center",
+    "address" : "426 W Main Street\nWaukesha, WI, 53186",
+    "phone" : "(262) 544-0708",
+    "service" : "emergency contraception, birth control"
+  },
+  "West Bend Health Center" : {
+    "name" : "West Bend Health Center",
+    "address" : "532 Shepherds Drive\nWest Bend, WI, 53090",
+    "phone" : "(262) 338-1303",
+    "service" : "emergency contraception, birth control"
+  },
+  "Milwaukee-wisconsin Avenue Health Center" : {
+    "name" : "Milwaukee-wisconsin Avenue Health Center",
+    "address" : "2207 W Wisconsin Ave\nMilwaukee, WI, 53233",
+    "phone" : "(414) 931-8181",
+    "service" : "emergency contraception, birth control"
+  },
+  "Appleton Central Health Center" : {
+    "name" : "Appleton Central Health Center",
+    "address" : "508 W Wisconsin Ave, Suite A\nAppleton, WI, 54911",
+    "phone" : "(920) 731-6304",
+    "service" : "emergency contraception, birth control"
+  },
+  "Delavan Health Center" : {
+    "name" : "Delavan Health Center",
+    "address" : "312 South 7th Street\nDelavan, WI, 53115",
+    "phone" : "(262) 728-1849",
+    "service" : "emergency contraception, birth control"
+  },
+  "Kent Health Center" : {
+    "name" : "Kent Health Center",
+    "address" : "138 E Main Street\n2nd Floor\nKent, OH, 44240",
+    "phone" : "(330) 678-8011",
+    "service" : "emergency contraception, birth control"
+  },
+  "Akron Health Center" : {
+    "name" : "Akron Health Center",
+    "address" : "444 West Exchange Street\nAkron, OH, 44302",
+    "phone" : "(330) 535-2671",
+    "service" : "emergency contraception, birth control"
+  },
+  "Middletown Health Unit" : {
+    "name" : "Middletown Health Unit",
+    "address" : "214 N Broad St\nMiddletown, DE, 19709",
+    "phone" : "(302) 378-5200",
+    "service" : "emergency contraception, birth control"
+  },
+  "Pinal Co Dept of Public Health, Apache Junction Clinic" : {
+    "name" : "Pinal Co Dept of Public Health, Apache Junction Clinic",
+    "address" : "575 N Idaho\nSk 301\nApache Junction, AZ, 85119",
+    "phone" : "1(866) 960-0633",
+    "service" : "emergency contraception, birth control"
+  },
+  "Milwaukee-lincoln Plaza Health Center" : {
+    "name" : "Milwaukee-lincoln Plaza Health Center",
+    "address" : "2239 S 108th Street\nWest Allis, WI, 53227",
+    "phone" : "(414) 541-2772",
+    "service" : "emergency contraception, birth control"
+  },
+  "Clemson University, Redfern Health Center" : {
+    "name" : "Clemson University, Redfern Health Center",
+    "address" : "735 McMillan Road\nClemson, SC, 29634",
+    "phone" : "(864) 656-1541",
+    "service" : "emergency contraception, birth control"
+  },
+  "Jean Shehan Health Center" : {
+    "name" : "Jean Shehan Health Center",
+    "address" : "3119a Coral Way\nMiami, FL, 33145",
+    "phone" : "(305) 285-5535",
+    "service" : "emergency contraception, birth control"
+  },
+  "North Miami Family Planning Clinic" : {
+    "name" : "North Miami Family Planning Clinic",
+    "address" : "681 Ne 125 St\nNorth Miami, FL, 33161",
+    "phone" : "(305) 895-7756",
+    "service" : "emergency contraception, birth control"
+  },
+  "Kendall Health Center" : {
+    "name" : "Kendall Health Center",
+    "address" : "11440 Sw 88th Street, Suite 109\nMiami, FL, 33176",
+    "phone" : "(786) 263-0001",
+    "service" : "emergency contraception, birth control"
+  },
+  "Unity Health Care" : {
+    "name" : "Unity Health Care",
+    "address" : "Unity Congress Heights Health Center\n3720 MLK JR Ave, SE\nWashington, DC, 20032",
+    "phone" : "(202) 279-1800",
+    "service" : "emergency contraception, birth control"
+  },
+  "Bennington Health Center" : {
+    "name" : "Bennington Health Center",
+    "address" : "194 North Street\nBennington, VT, 05201",
+    "phone" : "(802) 442-8166",
+    "service" : "emergency contraception, birth control"
+  },
+  "Keokuk Clinic" : {
+    "name" : "Keokuk Clinic",
+    "address" : "1626 Morgan St\nKeokuk, IA, 52632",
+    "phone" : "(877) 811-7526",
+    "service" : "emergency contraception, birth control"
+  },
+  "Council Bluffs Health Center" : {
+    "name" : "Council Bluffs Health Center",
+    "address" : "1604 2nd Ave\nCouncil Bluffs, IA, 51501",
+    "phone" : "(877) 811-7526",
+    "service" : "emergency contraception, birth control"
+  },
+  "Bellmawr" : {
+    "name" : "Bellmawr",
+    "address" : "35 East Browning Road\nBellmawr, NJ, 08031",
+    "phone" : "(856) 365-3519",
+    "service" : "emergency contraception, birth control"
+  },
+  "Camden Center" : {
+    "name" : "Camden Center",
+    "address" : "317 Broadway\nCamden, NJ, 08103",
+    "phone" : "(856) 365-3519",
+    "service" : "emergency contraception, birth control"
+  },
+  "Dover Center" : {
+    "name" : "Dover Center",
+    "address" : "805 S Governors Ave\nDover, DE, 19901",
+    "phone" : "(302) 678-5200",
+    "service" : "emergency contraception, birth control"
+  },
+  "Newark De Center" : {
+    "name" : "Newark De Center",
+    "address" : "140 E Delaware Ave\nNewark, DE, 19711",
+    "phone" : "(302) 731-7801",
+    "service" : "emergency contraception, birth control"
+  },
+  "Wilmington Center (De)" : {
+    "name" : "Wilmington Center (De)",
+    "address" : "625 N Shipley Street\nWilmington, DE, 19801",
+    "phone" : "(302) 655-7293",
+    "service" : "emergency contraception, birth control"
+  },
+  "Access Esperanza - Rev Bruce Galloway Clinic" : {
+    "name" : "Access Esperanza - Rev Bruce Galloway Clinic",
+    "address" : "1201 N Conway\nMission, TX, 78572",
+    "phone" : "(956) 585-4575",
+    "service" : "emergency contraception, birth control"
+  },
+  "Canyon Health Center" : {
+    "name" : "Canyon Health Center",
+    "address" : "700 Frio St\nCamp Wood, TX, 78833",
+    "phone" : "(830) 597-6424",
+    "service" : "emergency contraception, birth control"
+  },
+  "Planned Parenthood" : {
+    "name" : "Planned Parenthood",
+    "address" : "712 N 77 Sunshine Strip, Ste 18\nSuite 18\nHarlingen, TX, 78550",
+    "phone" : "(956) 423-8584",
+    "service" : "emergency contraception, birth control"
+  },
+  "Gainesville Health Services" : {
+    "name" : "Gainesville Health Services",
+    "address" : "316 S Chestnut\nGainesville, TX, 76240",
+    "phone" : "(940) 665-0972",
+    "service" : "emergency contraception, birth control"
+  },
+  "Mesquite Health Services" : {
+    "name" : "Mesquite Health Services",
+    "address" : "3220 Gus Thomassonste 231\nMesquite, TX, 75150",
+    "phone" : "(972) 285-0271",
+    "service" : "emergency contraception, birth control"
+  },
+  "North Fort Worth Health Center" : {
+    "name" : "North Fort Worth Health Center",
+    "address" : "2470 Jacksboro Highway\nFort Worth, TX, 76114",
+    "phone" : "(817) 625-2892",
+    "service" : "emergency contraception, birth control"
+  },
+  "Paris Health Center" : {
+    "name" : "Paris Health Center",
+    "address" : "1735 17th Street Ne\nParis, TX, 75460",
+    "phone" : "(903) 784-1301",
+    "service" : "emergency contraception, birth control"
+  },
+  "Plano Health Services" : {
+    "name" : "Plano Health Services",
+    "address" : "1400 Summitste Ca\nPlano, TX, 75074",
+    "phone" : "(972) 633-1300",
+    "service" : "emergency contraception, birth control"
+  },
+  "Lubbock Family Planning Clinic" : {
+    "name" : "Lubbock Family Planning Clinic",
+    "address" : " 14 Briarcroft Officepark\nLubbock, TX, 79412",
+    "phone" : "(806) 795-7123",
+    "service" : "emergency contraception, birth control"
+  },
+  "Access Esperanza Clinics - Rev English Clinic" : {
+    "name" : "Access Esperanza Clinics - Rev English Clinic",
+    "address" : "916 Hackberry Ave\nSte B\nMcallen, TX, 78501",
+    "phone" : "(956) 688-3700",
+    "service" : "emergency contraception, birth control"
+  },
+  "Adolescent Clinic, Children's Hospital of Pittsburgh of UPMC" : {
+    "name" : "Adolescent Clinic, Children's Hospital of Pittsburgh of UPMC",
+    "address" : "3420 Fifth Ave\nGround floor\nPittsburgh, PA, 15213",
+    "phone" : "(412) 692-6677",
+    "service" : "emergency contraception, birth control"
+  },
+  "Moon Township Health Center" : {
+    "name" : "Moon Township Health Center",
+    "address" : "935 Beaver Grade Road\nSuite 12\nMoon Township, PA, 15108",
+    "phone" : "(412) 264-7205",
+    "service" : "emergency contraception, birth control"
+  },
+  "Bridgeville Health Center" : {
+    "name" : "Bridgeville Health Center",
+    "address" : "533 Washington Pike\nSuite 203\nBridgeville, PA, 15017",
+    "phone" : "(412) 257-9880",
+    "service" : "emergency contraception, birth control"
+  },
+  "Midtown Health Center" : {
+    "name" : "Midtown Health Center",
+    "address" : "1001 Emanuel Cleaver Ii Blvd\nKansas City, MO, 64110",
+    "phone" : "(816) 756-2277",
+    "service" : "emergency contraception, birth control"
+  },
+  "Independence Health Center" : {
+    "name" : "Independence Health Center",
+    "address" : "815 N Noland Road\nSuite  6\nIndependence, MO, 64050",
+    "phone" : "(816) 252-3800",
+    "service" : "emergency contraception, birth control"
+  },
+  "Columbia Health Center" : {
+    "name" : "Columbia Health Center",
+    "address" : "711 N Providence Road\nColumbia, MO, 65203",
+    "phone" : "| Book Appointment",
+    "service" : "emergency contraception, birth control"
+  },
+  "South Grand Health Center" : {
+    "name" : "South Grand Health Center",
+    "address" : "3401 South Grand\nSt Louis, MO, 63118",
+    "phone" : "(314) 865-1850",
+    "service" : "emergency contraception, birth control"
+  },
+  "New Orleans Health Center" : {
+    "name" : "New Orleans Health Center",
+    "address" : "4018 Magazine Street\nNew Orleans, LA, 70115",
+    "phone" : "(504) 897-9200",
+    "service" : "emergency contraception, birth control"
+  },
+  "Baton Rouge Health Center" : {
+    "name" : "Baton Rouge Health Center",
+    "address" : "3955 Government Street, Ste 2\nBaton Rouge, LA, 70806",
+    "phone" : "(225) 387-1167",
+    "service" : "emergency contraception, birth control"
+  },
+  "Access Health: Daniels Health Center" : {
+    "name" : "Access Health: Daniels Health Center",
+    "address" : "2157 Ritter Dr\nDaniels, WV, 25832",
+    "phone" : "(304) 763-4326",
+    "service" : "emergency contraception, birth control"
+  },
+  "Wharton Medical Center" : {
+    "name" : "Wharton Medical Center",
+    "address" : "35767 Pond Fork Rd\nWharton, WV, 25208",
+    "phone" : "(304) 247-6202",
+    "service" : "emergency contraception, birth control"
+  },
+  "Preston Taylor Community Health - Rowlesburg Clinic" : {
+    "name" : "Preston Taylor Community Health - Rowlesburg Clinic",
+    "address" : "51 Poplar St\nRowlesburg, WV, 26425",
+    "phone" : "(304) 454-2421",
+    "service" : "emergency contraception, birth control"
+  },
+  "Asher Community Health Center" : {
+    "name" : "Asher Community Health Center",
+    "address" : "712 Jay St\nFossil, OR, 97830",
+    "phone" : "(541) 763-2725",
+    "service" : "emergency contraception, birth control"
+  },
+  "Grants Pass Health Center" : {
+    "name" : "Grants Pass Health Center",
+    "address" : "160 Nw Franklin Blvd\nGrants Pass, OR, 97526",
+    "phone" : "(541) 474-2784",
+    "service" : "emergency contraception, birth control"
+  },
+  "Plainfield Health Center" : {
+    "name" : "Plainfield Health Center",
+    "address" : "123 Park Ave\nPlainfield, NJ, 07060",
+    "phone" : "(908) 756-3736",
+    "service" : "emergency contraception, birth control"
+  },
+  "Scranton Medical Center" : {
+    "name" : "Scranton Medical Center",
+    "address" : "316 Penn Avenue\nScranton, PA, 18503",
+    "phone" : "(570) 344-2626",
+    "service" : "emergency contraception, birth control"
+  },
+  "Reading Medical Center" : {
+    "name" : "Reading Medical Center",
+    "address" : "48 South Fourth Street\nReading, PA, 19602",
+    "phone" : "(610) 376-8061",
+    "service" : "emergency contraception, birth control"
+  },
+  "Allentown Medical Center" : {
+    "name" : "Allentown Medical Center",
+    "address" : "29 North Ninth Street\nAllentown, PA, 18101",
+    "phone" : "(610) 439-1033",
+    "service" : "emergency contraception, birth control"
+  },
+  "Nepa Community Health Care-lenox" : {
+    "name" : "Nepa Community Health Care-lenox",
+    "address" : "Lenox Plz\nKingsley, PA, 18826",
+    "phone" : "(570) 222-9596",
+    "service" : "emergency contraception, birth control"
+  },
+  "Elkhart Health Center" : {
+    "name" : "Elkhart Health Center",
+    "address" : "505 S 3rd Street, Ste 160\nElkhart, IN, 46516",
+    "phone" : "(574) 294-7561",
+    "service" : "emergency contraception, birth control"
+  },
+  "Bedford Health Center" : {
+    "name" : "Bedford Health Center",
+    "address" : "717 Lincoln Ave\nBedford, IN, 47421",
+    "phone" : "(812) 279-3527",
+    "service" : "emergency contraception, birth control"
+  },
+  "New Albany Health Center" : {
+    "name" : "New Albany Health Center",
+    "address" : "2708 Paoli Pike Pl, Suite J\nNew Albany, IN, 47150",
+    "phone" : "(812) 945-4844",
+    "service" : "emergency contraception, birth control"
+  },
+  "Springdale Health Center" : {
+    "name" : "Springdale Health Center",
+    "address" : "290 Northland Blvd\nCincinnati, OH, 45246",
+    "phone" : "(513) 772-2207",
+    "service" : "emergency contraception, birth control"
+  },
+  "Cortland Health Center" : {
+    "name" : "Cortland Health Center",
+    "address" : "2668 Elm Road\nElm Road Medical Park, Building C\nCortland, OH, 44410",
+    "phone" : "(330) 399-5104",
+    "service" : "emergency contraception, birth control"
+  },
+  "Youngstown Health Center" : {
+    "name" : "Youngstown Health Center",
+    "address" : "77 E Midlothian Blvd\nYoungstown, OH, 44507",
+    "phone" : "(330) 788-2487",
+    "service" : "emergency contraception, birth control"
+  },
+  "Downtown Clinic" : {
+    "name" : "Downtown Clinic",
+    "address" : "1102 S I St\nTacoma, WA, 98405-4559",
+    "phone" : "(253) 597-3813",
+    "service" : "emergency contraception, birth control"
+  },
+  "Mt Vernon Health Center" : {
+    "name" : "Mt Vernon Health Center",
+    "address" : "1805 E Division Street\nMt Vernon, WA, 98274",
+    "phone" : "(360) 848-1744",
+    "service" : "emergency contraception, birth control"
+  },
+  "Roseland Health Center" : {
+    "name" : "Roseland Health Center",
+    "address" : "11250 S Halsted St\nChicago, IL, 60628",
+    "phone" : "(773) 468-1600",
+    "service" : "emergency contraception, birth control"
+  },
+  "Champaign Health Center - Family Planning & Abortion Services" : {
+    "name" : "Champaign Health Center - Family Planning & Abortion Services",
+    "address" : "302 E Stoughton St\nSuite  2\nChampaign, IL, 61820",
+    "phone" : "(217) 359-8022",
+    "service" : "emergency contraception, birth control"
+  },
+  "Bloomington Health Center" : {
+    "name" : "Bloomington Health Center",
+    "address" : "1319 N Veterans Parkway\nSuite 3-a\nBloomington, IL, 61704",
+    "phone" : "(309) 827-4014",
+    "service" : "emergency contraception, birth control"
+  },
+  "Saranac Lake Clinic" : {
+    "name" : "Saranac Lake Clinic",
+    "address" : "41 St Bernard St\nSaranac Lake, NY, 12983",
+    "phone" : "(518) 891-0046",
+    "service" : "emergency contraception, birth control"
+  },
+  "Malone Clinic" : {
+    "name" : "Malone Clinic",
+    "address" : "246 W Main Street Suites 1 and 2\nMalone, NY, 12953",
+    "phone" : "(518) 483-7150",
+    "service" : "emergency contraception, birth control"
+  },
+  "Buffalo Medical Center" : {
+    "name" : "Buffalo Medical Center",
+    "address" : "2697 Main Street\nBuffalo, NY, 14214",
+    "phone" : "(716) 831-2200",
+    "service" : "emergency contraception, birth control"
+  },
+  "West Islip Center" : {
+    "name" : "West Islip Center",
+    "address" : "180 Sunrise Highway\nWest Islip, NY, 11795",
+    "phone" : "(631) 893-0150",
+    "service" : "emergency contraception, birth control"
+  },
+  "Huntington Center" : {
+    "name" : "Huntington Center",
+    "address" : "755 New York Ave\nHuntington, NY, 11743",
+    "phone" : "(631) 427-7154",
+    "service" : "emergency contraception, birth control"
+  },
+  "Smithtown Center" : {
+    "name" : "Smithtown Center",
+    "address" : "70 Maple Ave\nSmithtown, NY, 11787",
+    "phone" : "(631) 361-7526",
+    "service" : "emergency contraception, birth control"
+  },
+  "White Plains Center" : {
+    "name" : "White Plains Center",
+    "address" : "175 Tarrytown Road\nWhite Plains, NY, 10607",
+    "phone" : "(914) 761-6566",
+    "service" : "emergency contraception, birth control"
+  },
+  "New Rochelle Center" : {
+    "name" : "New Rochelle Center",
+    "address" : "247-249 North Ave\nNew Rochelle, NY, 10801",
+    "phone" : "(914) 632-4442",
+    "service" : "emergency contraception, birth control"
+  },
+  "Mount Vernon Center" : {
+    "name" : "Mount Vernon Center",
+    "address" : "6 Gramatan Avenue, 4th Floor\nMt Vernon, NY, 10550",
+    "phone" : "(914) 668-7927",
+    "service" : "emergency contraception, birth control"
+  },
+  "Brewster Center" : {
+    "name" : "Brewster Center",
+    "address" : "2505 Carmel Avenue\nBrewster, NY, 10509",
+    "phone" : "(845) 278-7313",
+    "service" : "emergency contraception, birth control"
+  },
+  "Spring Valley Center" : {
+    "name" : "Spring Valley Center",
+    "address" : "25 Perlman Drive\nSpring Valley, NY, 10977",
+    "phone" : "(845) 426-7577",
+    "service" : "emergency contraception, birth control"
+  },
+  "Monticello Health Center" : {
+    "name" : "Monticello Health Center",
+    "address" : "14 Prince Street\nMonticello, NY, 12701",
+    "phone" : "(845) 562-7800",
+    "service" : "emergency contraception, birth control"
+  },
+  "Poughkeepsie Health Center" : {
+    "name" : "Poughkeepsie Health Center",
+    "address" : "17 Noxon Street\nPoughkeepsie, NY, 12601",
+    "phone" : "(845) 562-7800",
+    "service" : "emergency contraception, birth control"
+  },
+  "Goshen Health Center" : {
+    "name" : "Goshen Health Center",
+    "address" : "7 Coates Drive, Suite 4\nGoshen, NY, 10924",
+    "phone" : "(845) 562-7800",
+    "service" : "emergency contraception, birth control"
+  },
+  "Kingston Health Center" : {
+    "name" : "Kingston Health Center",
+    "address" : "21 Grand Street\nKingston, NY, 12401",
+    "phone" : "(845) 562-7800",
+    "service" : "emergency contraception, birth control"
+  },
+  "Gettysburg Medical Center" : {
+    "name" : "Gettysburg Medical Center",
+    "address" : "963 Biglerville Road\nGettysburg, PA, 17325",
+    "phone" : "(717) 334-9275",
+    "service" : "emergency contraception, birth control"
+  },
+  "Johnstown Health Center" : {
+    "name" : "Johnstown Health Center",
+    "address" : "817 Franklin Street\nJohnstown, PA, 15901",
+    "phone" : "(814) 535-5545",
+    "service" : "emergency contraception, birth control"
+  },
+  "Old Brooklyn Health Center" : {
+    "name" : "Old Brooklyn Health Center",
+    "address" : "3311 Broadview Road\nCleveland, OH, 44109",
+    "phone" : "(216) 661-0400",
+    "service" : "emergency contraception, birth control"
+  },
+  "Concord Health Center" : {
+    "name" : "Concord Health Center",
+    "address" : "2185 Pacheco Street\nConcord, CA, 94520",
+    "phone" : "(925) 676-0300",
+    "service" : "emergency contraception, birth control"
+  },
+  "2185 Pacheco Street" : {
+    "name" : "2185 Pacheco Street",
+    "address" : "101 BROADWAY\nRICHMOND, CA, 94804",
+    "phone" : "(510) 232-1250",
+    "service" : "emergency contraception, birth control"
+  },
+  "Pasadena Health Center" : {
+    "name" : "Pasadena Health Center",
+    "address" : "1045 N Lake Ave\nPasadena, CA, 91104",
+    "phone" : "(626) 798-0706",
+    "service" : "emergency contraception, birth control"
+  },
+  "Gilroy Health Center" : {
+    "name" : "Gilroy Health Center",
+    "address" : "760 Renz Lane\nGilroy, CA, 95020",
+    "phone" : "(408) 847-1739",
+    "service" : "emergency contraception, birth control"
+  },
+  "Owosso Health Center" : {
+    "name" : "Owosso Health Center",
+    "address" : "205 N Hintz Road\nOwosso, MI, 48867",
+    "phone" : "(989) 723-6420",
+    "service" : "emergency contraception, birth control"
+  },
+  "Burton Health Center" : {
+    "name" : "Burton Health Center",
+    "address" : "G-1235 S Center Road\nUnit 17\nBurton, MI, 48509",
+    "phone" : "(810) 743-4490",
+    "service" : "emergency contraception, birth control"
+  },
+  "Lansing Health Center" : {
+    "name" : "Lansing Health Center",
+    "address" : "300 N Clippert, Ste 6\nLansing, MI, 48912",
+    "phone" : "(517) 351-0550",
+    "service" : "emergency contraception, birth control"
+  },
+  "Battle Creek Health Center" : {
+    "name" : "Battle Creek Health Center",
+    "address" : "2855 Capital Ave Sw\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nBattle Creek, MI, 49015\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "phone" : "(269) 964-0885",
+    "service" : "emergency contraception, birth control"
+  },
+  "The Elizabeth Blackwell Health Center at Locust Street" : {
+    "name" : "The Elizabeth Blackwell Health Center at Locust Street",
+    "address" : "1144 Locust Street\nPhiladelphia, PA, 19107",
+    "phone" : "(215) 351-5560",
+    "service" : "emergency contraception, birth control"
+  },
+  "Castor Ave Health Center" : {
+    "name" : "Castor Ave Health Center",
+    "address" : "8210 Castor Ave\nPhiladelphia, PA, 19152",
+    "phone" : "(215) 745-5966",
+    "service" : "emergency contraception, birth control"
+  },
+  "Elizabeth Blackwell Health Center" : {
+    "name" : "Elizabeth Blackwell Health Center",
+    "address" : "1211 Chestnut Street\nSuite 405\nPhiladelphia, PA, 19107",
+    "phone" : "(215) 496-9696",
+    "service" : "emergency contraception, birth control"
+  },
+  "Media Health Center" : {
+    "name" : "Media Health Center",
+    "address" : "216 W State Street\nMedia, PA, 19063",
+    "phone" : "(610) 566-2830",
+    "service" : "emergency contraception, birth control"
+  },
+  "" : {
+    "name" : "",
+    "address" : "",
+    "phone" : "",
+    "service" : ""
+  },
+  "Grants Pass Health Center" : {
+    "name" : "Grants Pass Health Center",
+    "address" : "160 Nw Franklin Blvd\nGrants Pass, OR, 97526",
+    "phone" : "(541) 474-2784",
+    "service" : ""
+  },
+  "Concord Health Center" : {
+    "name" : "Concord Health Center",
+    "address" : "2185 Pacheco Street\nConcord, CA, 94520",
+    "phone" : "(925) 676-0300",
+    "service" : ""
+  },
+  "Central Richmond Center" : {
+    "name" : "Central Richmond Center",
+    "address" : "101 BROADWAY\nRICHMOND, CA, 94804",
+    "phone" : "(510) 232-1250",
+    "service" : ""
+  },
+  "Pasadena Health Center" : {
+    "name" : "Pasadena Health Center",
+    "address" : "1045 N Lake Ave\nPasadena, CA, 91104",
+    "phone" : "(626) 798-0706",
+    "service" : ""
+  },
+  "Gilroy Health Center" : {
+    "name" : "Gilroy Health Center",
+    "address" : "760 Renz Lane\nGilroy, CA, 95020",
+    "phone" : "(408) 847-1739",
+    "service" : ""
+  },
+  "Yuba City Health Center" : {
+    "name" : "Yuba City Health Center",
+    "address" : "430 Palora Ave  g\nYuba City, CA, 95991",
+    "phone" : "(530) 674-2603",
+    "service" : ""
+  },
+  "Woodland Health Center" : {
+    "name" : "Woodland Health Center",
+    "address" : "520 Cottonwood Street Suite 10\nWoodland, CA, 95695",
+    "phone" : "(530) 662-4646",
+    "service" : ""
+  },
+  "Trinity Clinic" : {
+    "name" : "Trinity Clinic",
+    "address" : "120b Taylor Street\nWeaverville, CA, 96093",
+    "phone" : "(530) 623-2386",
+    "service" : ""
+  },
+  "West Shores Clinic" : {
+    "name" : "West Shores Clinic",
+    "address" : "289 S Marina Drive Suite 1\nSalton City, CA, 92275",
+    "phone" : "(760) 394-4338",
+    "service" : ""
+  },
+  "La Paz County Health Department" : {
+    "name" : "La Paz County Health Department",
+    "address" : "1112 Joshua Ave\nSte 206\nParker, AZ, 85344-5756",
+    "phone" : "(928) 669-1100",
+    "service" : ""
+  },
+  "Yuma County Public Health Services District" : {
+    "name" : "Yuma County Public Health Services District",
+    "address" : "2200 W 28th St\nYuma, AZ, 85364",
+    "phone" : "(928) 317-4540",
+    "service" : ""
+  },
+  "Alpine County Health and Human Services Department health Department Clinic" : {
+    "name" : "Alpine County Health and Human Services Department health Department Clinic",
+    "address" : "75 Diamond Valley Rd\nSte B\nMarkleeville, CA, 96120",
+    "phone" : "(530) 694-2146",
+    "service" : ""
+  },
+  "Fresno County Department of Public Health" : {
+    "name" : "Fresno County Department of Public Health",
+    "address" : "1221 Fulton Mall, 6th floor\nFresno, CA, 93721\n",
+    "phone" : "(559) 445-3200",
+    "service" : ""
+  },
+  "Humboldt County Department of Health and Human Services public Health" : {
+    "name" : "Humboldt County Department of Health and Human Services public Health",
+    "address" : "529 I St\nEureka, CA, 95501-1180",
+    "phone" : "(707) 268-2108",
+    "service" : ""
+  },
+  "Kern County Public Health Services Department" : {
+    "name" : "Kern County Public Health Services Department",
+    "address" : "1800 Mount Vernon Ave\nBakersfield, CA, 93306",
+    "phone" : "(661) 321-3000",
+    "service" : ""
+  },
+  "Lake County Department of Health Services division of Public Health" : {
+    "name" : "Lake County Department of Health Services division of Public Health",
+    "address" : "922 Bevins Ct\nLakeport, CA, 95453",
+    "phone" : "(707) 263-1090",
+    "service" : ""
+  },
+  "Long Beach Department of Health and Human Services" : {
+    "name" : "Long Beach Department of Health and Human Services",
+    "address" : "2525 Grand Ave\nLong Beach, CA, 90815",
+    "phone" : "(562) 570-4047",
+    "service" : ""
+  },
+  "Mariposa County Health Department" : {
+    "name" : "Mariposa County Health Department",
+    "address" : "4988 11th St\nMariposa, CA, 95338",
+    "phone" : "(209) 966-3689",
+    "service" : ""
+  },
+  "Mono County Health Department mammoth Lakes Office" : {
+    "name" : "Mono County Health Department mammoth Lakes Office",
+    "address" : "437 Old Mammoth Rd\nSte Q\nMammoth Lakes, CA, 93546",
+    "phone" : "(760) 924-1830",
+    "service" : ""
+  },
+  "Napa Health Department" : {
+    "name" : "Napa Health Department",
+    "address" : "2344 Old Sonoma Road Building G\nNapa, CA, 94559",
+    "phone" : "(707) 252-2539 ",
+    "service" : ""
+  },
+  "Orange County Health Care Agency public Health" : {
+    "name" : "Orange County Health Care Agency public Health",
+    "address" : "405 W 5th St, 7th Floor\nSanta Ana, CA, 92701",
+    "phone" : "(714) 834-3155",
+    "service" : ""
+  },
+  "Plumas County Public Health Agency quincy Clinic" : {
+    "name" : "Plumas County Public Health Agency quincy Clinic",
+    "address" : "270 County Hospital Rd\nSte 206\nQuincy, CA, 95971",
+    "phone" : "(530) 283-6330",
+    "service" : ""
+  },
+  "Riverside County Department of Health" : {
+    "name" : "Riverside County Department of Health",
+    "address" : "4065 County Circle Dr\nRiverside, CA, 92503",
+    "phone" : "(951) 358-7036",
+    "service" : ""
+  },
+  "San Bernardino County Department of Public Health" : {
+    "name" : "San Bernardino County Department of Public Health",
+    "address" : "351 N Mountain View Ave, Room 303\nSan Bernardino, CA, 92415-0010",
+    "phone" : "(909) 387-6219",
+    "service" : ""
+  },
+  "Los Angeles County Department of Health Services - Public Health" : {
+    "name" : "Los Angeles County Department of Health Services - Public Health",
+    "address" : "313 N Figueroa St, Room 806\nLos Angeles, CA, 90012",
+    "phone" : "(213) 240-8117",
+    "service" : ""
+  },
+  "Tulare County Health and Human Services" : {
+    "name" : "Tulare County Health and Human Services",
+    "address" : "5957 S Mooney Blvd\nVisalia, CA, 93277",
+    "phone" : "(559) 737-4660",
+    "service" : ""
+  },
+  "Ventura County Public Health Clinic - North Oxnard" : {
+    "name" : "Ventura County Public Health Clinic - North Oxnard",
+    "address" : "2240 E Gonzales Rd\nSuite 140\nOxnard, CA, 93036",
+    "phone" : "(805) 981-5221",
+    "service" : ""
+  },
+  "Santa Barbara County Public Health Department" : {
+    "name" : "Santa Barbara County Public Health Department",
+    "address" : "300 San Antonio Rd\nSanta Barbara, CA, 93110",
+    "phone" : "(805) 681-5102",
+    "service" : ""
+  },
+  "Washoe County Health District" : {
+    "name" : "Washoe County Health District",
+    "address" : "1001 East Ninth Street\nReno, NV, 89512",
+    "phone" : "(775) 328-2470",
+    "service" : ""
+  },
+  "Carson City Health and Human Services" : {
+    "name" : "Carson City Health and Human Services",
+    "address" : "900 E Long St\nCarson City, NV, 89706",
+    "phone" : "(775) 887-2190",
+    "service" : ""
+  },
+  "Humboldt County Clinic" : {
+    "name" : "Humboldt County Clinic",
+    "address" : "102 E Haskell St\nWinnemucca, NV, 89445",
+    "phone" : "(775) 635-2386",
+    "service" : ""
+  },
+  "Josephine County Department of Health and Community Action" : {
+    "name" : "Josephine County Department of Health and Community Action",
+    "address" : "715 NW Dimmick St\nGrants Pass, OR, 97526",
+    "phone" : "(541) 474-5325",
+    "service" : ""
+  },
+  "Vista Community Clinic West" : {
+    "name" : "Vista Community Clinic West",
+    "address" : "517 North Horne Street\nOceanside, CA, 92054",
+    "phone" : "(760) 631-5000",
+    "service" : ""
+  },
+  "Glendora Health Center" : {
+    "name" : "Glendora Health Center",
+    "address" : "130 W Route 66\nSuite 100\nGlendora, CA, 91740",
+    "phone" : "(626) 798-0706",
+    "service" : ""
+  },
+  "Vista Community Clinic - Pier View Way" : {
+    "name" : "Vista Community Clinic - Pier View Way",
+    "address" : "818 Pier View Way\nOceanside, CA, 92054",
+    "phone" : "(760) 631-5000",
+    "service" : ""
+  },
+  "Vista Community Clinic - North River Road" : {
+    "name" : "Vista Community Clinic - North River Road",
+    "address" : "4700 North River Road\nSuite B\nOceanside, CA, 92057",
+    "phone" : "(760) 631-5000",
+    "service" : ""
+  },
+  "Sierra Joint Community College Health Service (For registered active students only)" : {
+    "name" : "Sierra Joint Community College Health Service (For registered active students only)",
+    "address" : "5000 Rocklin Road\nRocklin, CA, 95677",
+    "phone" : "(916) 660-7490",
+    "service" : ""
+  },
+  "College of the Canyons Student Health & Wellness Center" : {
+    "name" : "College of the Canyons Student Health & Wellness Center",
+    "address" : "26455 Rockwell Canyon Road\nSanta Clarita, CA, 91355",
+    "phone" : "(661) 362-3259",
+    "service" : ""
+  },
+  "Vista Community Clinic" : {
+    "name" : "Vista Community Clinic",
+    "address" : "1000 Vale Terrace Drive\nVista, CA, 92084",
+    "phone" : "7(606) 315-0000",
+    "service" : ""
+  },
+  "Bell Gardens Family Medical Center" : {
+    "name" : "Bell Gardens Family Medical Center",
+    "address" : "6501 South Garfield Avenue\nBell Gardens, CA, 90201",
+    "phone" : "(562) 928-9600",
+    "service" : ""
+  },
+  "Anaheim" : {
+    "name" : "Anaheim",
+    "address" : "303 W Lincoln Ave,  105\nAnaheim, CA, 92805",
+    "phone" : "(714) 922-4100",
+    "service" : ""
+  },
+  "Ashland Health Center" : {
+    "name" : "Ashland Health Center",
+    "address" : "1532 Siskiyou Blvd\nAshland, OR, 97520",
+    "phone" : "(541) 482-8700",
+    "service" : ""
+  },
+  "B Street Health Center" : {
+    "name" : "B Street Health Center",
+    "address" : "201 29th Street, Ste B\nSacramento, CA, 95816",
+    "phone" : "(916) 446-6921",
+    "service" : ""
+  },
+  "Canoga Park Health Center" : {
+    "name" : "Canoga Park Health Center",
+    "address" : "21001 Sherman Way  9\nCanoga Park, CA, 91303",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Carlsbad Isabella Center" : {
+    "name" : "Carlsbad Isabella Center",
+    "address" : "1820 Marron Road, Suite 110\nCarlsbad, CA, 92008",
+    "phone" : "3100 Cohasset Rd",
+    "service" : ""
+  },
+  "Chico Health Center" : {
+    "name" : "Chico Health Center",
+    "address" : "Chico, CA, 95973",
+    "phone" : "(530) 342-8367",
+    "service" : ""
+  },
+  "Chula Vista Center" : {
+    "name" : "Chula Vista Center",
+    "address" : "1295 Broadway  201\nChula Vista, CA, 91911",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "College Avenue Clinic" : {
+    "name" : "College Avenue Clinic",
+    "address" : "4575 College Ave\nSan Diego, CA, 92115",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "El Cajon Center" : {
+    "name" : "El Cajon Center",
+    "address" : "1685 E Main St\nSte 301\nEl Cajon, CA, 92021",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "El Cerrito Health Center" : {
+    "name" : "El Cerrito Health Center",
+    "address" : "320 El Cerrito Plaza\nEl Cerrito, CA, 94530",
+    "phone" : "(510) 527-5806",
+    "service" : ""
+  },
+  "Escondido Center" : {
+    "name" : "Escondido Center",
+    "address" : "347 W Mission Avenue\nEscondido, CA, 92025",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "Euclid Avenue Parker Center" : {
+    "name" : "Euclid Avenue Parker Center",
+    "address" : "220 Euclid Ave, Suite 30\nSan Diego, CA, 92114",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "Fairfield Health Center" : {
+    "name" : "Fairfield Health Center",
+    "address" : "1325 Travis Blvd  c\nFairfield, CA, 94533",
+    "phone" : "(707) 429-8855",
+    "service" : ""
+  },
+  "Hollywood Health Center" : {
+    "name" : "Hollywood Health Center",
+    "address" : "1014 1 2 N Vermont Ave\nLos Angeles, CA, 90029",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Planned Parenthood - Kearny Mesa Center" : {
+    "name" : "Planned Parenthood - Kearny Mesa Center",
+    "address" : "7526 Clairemont Mesa Blvd\nSan Diego, CA, 92111",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "Las Vegas Health Center" : {
+    "name" : "Las Vegas Health Center",
+    "address" : "3220 W Charleston Blvd\nLas Vegas, NV, 89102",
+    "phone" : "(702) 878-7776",
+    "service" : ""
+  },
+  "Mission Viejo" : {
+    "name" : "Mission Viejo",
+    "address" : "26137 La Paz Rd,  200\nMission Viejo, CA, 92691",
+    "phone" : "(714) 922-4100",
+    "service" : ""
+  },
+  "Modesto Health Center" : {
+    "name" : "Modesto Health Center",
+    "address" : "1431 Mchenry Avenue, Suite 100\nModesto, CA, 95350",
+    "phone" : "(209) 579-2300",
+    "service" : ""
+  },
+  "Moreno Valley Center" : {
+    "name" : "Moreno Valley Center",
+    "address" : "12900 Frederick Street, Suite C\nMoreno Valley, CA, 92553",
+    "phone" : "(888) 743-7526",
+    "service" : ""
+  },
+  "Orange" : {
+    "name" : "Orange",
+    "address" : "700 S Tustin St\nOrange, CA, 92866",
+    "phone" : "(714) 922-4100",
+    "service" : ""
+  },
+  "Pittsburg Health Center" : {
+    "name" : "Pittsburg Health Center",
+    "address" : "3715 Railroad Ave Suite B\nPittsburg, CA, 94565",
+    "phone" : "(925) 439-1237",
+    "service" : ""
+  },
+  "Pomona Health Center" : {
+    "name" : "Pomona Health Center",
+    "address" : "1550 N Garey Avenue\nPomona, CA, 91767",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Redding Health Center" : {
+    "name" : "Redding Health Center",
+    "address" : "2935 Bechelli Lane\nSuite a & C\nRedding, CA, 96002",
+    "phone" : "(530) 351-7100",
+    "service" : ""
+  },
+  "S Mark Taper Foundation Center for Medical Training" : {
+    "name" : "S Mark Taper Foundation Center for Medical Training",
+    "address" : "400 West 30th Street\nLos Angeles, CA, 90007",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "San Benito Health Center" : {
+    "name" : "San Benito Health Center",
+    "address" : "390 7th St\nHollister, CA, 95023",
+    "phone" : "(831) 634-1880",
+    "service" : ""
+  },
+  "San Bernardino" : {
+    "name" : "San Bernardino",
+    "address" : "1873 S Commercenter Dr W\nSan Bernardino, CA, 92408",
+    "phone" : "(909) 890-5511",
+    "service" : ""
+  },
+  "San Luis Obispo Center" : {
+    "name" : "San Luis Obispo Center",
+    "address" : "743 Pismo Street\nSan Luis Obispo, CA, 93401",
+    "phone" : "(888) 898-3806",
+    "service" : ""
+  },
+  "Santa Ana" : {
+    "name" : "Santa Ana",
+    "address" : "1421 E 17th St\nSanta Ana, CA, 92705",
+    "phone" : "(714) 922-4100",
+    "service" : ""
+  },
+  "Santa Barbara Center" : {
+    "name" : "Santa Barbara Center",
+    "address" : "518 Garden Street\nSanta Barbara, CA, 93101",
+    "phone" : "(888) 898-3806",
+    "service" : ""
+  },
+  "Santa Maria Center" : {
+    "name" : "Santa Maria Center",
+    "address" : "415 E Chapel Street\nSanta Maria, CA, 93454",
+    "phone" : "(888) 898-3806",
+    "service" : ""
+  },
+  "Santa Monica Health Center" : {
+    "name" : "Santa Monica Health Center",
+    "address" : "1316 3rd Street Promenade  201\nSanta Monica, CA, 90401",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Santa Rosa Health Center" : {
+    "name" : "Santa Rosa Health Center",
+    "address" : "1140 Sonoma Avenue\nBuilding 3\nSanta Rosa, CA, 95405",
+    "phone" : "(707) 527-7656",
+    "service" : ""
+  },
+  "South Bay Health Center" : {
+    "name" : "South Bay Health Center",
+    "address" : "14623 Hawthorne Blvd  300\nLawndale, CA, 90260",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Thousand Oaks Center" : {
+    "name" : "Thousand Oaks Center",
+    "address" : "1200 W Hillcrest\nThousand Oaks, CA, 91320",
+    "phone" : "(888) 898-3806",
+    "service" : ""
+  },
+  "1200 W Hillcrest" : {
+    "name" : "1200 W Hillcrest",
+    "address" : "200 Second Ave N\nTwin Falls, ID, 83301",
+    "phone" : "(800) 769-0045",
+    "service" : ""
+  },
+  "Twin Falls Health Center" : {
+    "name" : "Twin Falls Health Center",
+    "address" : "918 W Foothill Blvd,  a\nUpland, CA, 91786",
+    "phone" : "(909) 890-5511",
+    "service" : ""
+  },
+  "Upland" : {
+    "name" : "Upland",
+    "address" : "7100 Van Nuys Blvd  108\nVan Nuys, CA, 91405",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Ventura Center" : {
+    "name" : "Ventura Center",
+    "address" : "5400 Ralston Street\nVentura, CA, 93003",
+    "phone" : "(888) 898-3806",
+    "service" : ""
+  },
+  "Whittier Health Center" : {
+    "name" : "Whittier Health Center",
+    "address" : "7655 Greenleaf Ave\nWhittier, CA, 90602",
+    "phone" : "(800) 576-5544",
+    "service" : ""
+  },
+  "Richard Bardowell Md" : {
+    "name" : "Richard Bardowell Md",
+    "address" : "2701 West Alameda Avenue\n 604\nBurbank, CA, 91505",
+    "phone" : "(818) 843-3100",
+    "service" : ""
+  },
+  "Women's Health Care Specialists" : {
+    "name" : "Women's Health Care Specialists",
+    "address" : "2077 Harbor Blvd\nSuite C\nCosta Mesa, CA, 92627",
+    "phone" : "(949) 722-2510",
+    "service" : ""
+  },
+  "Stanford Children's Health's Teen and Young Adult Clinic,Stanford Children’s Health Specialty Services – Sunnyvale" : {
+    "name" : "Stanford Children's Health's Teen and Young Adult Clinic,Stanford Children’s Health Specialty Services – Sunnyvale",
+    "address" : "1195 West Fremont Avenue\nSunnyvale, CA, 94087",
+    "phone" : "(408) 637-5959",
+    "service" : ""
+  },
+  "Sun Valley Health Center" : {
+    "name" : "Sun Valley Health Center",
+    "address" : "7223 N Fair Ave\nSun Valley, CA, 91352",
+    "phone" : "(818) 432-4400",
+    "service" : ""
+  },
+  "High Desert Family Medicine" : {
+    "name" : "High Desert Family Medicine",
+    "address" : "44460 Old 80 Hwy\nJacumba, CA, 91934",
+    "phone" : "(619) 766-4071",
+    "service" : ""
+  },
+  "Mill Valley Center" : {
+    "name" : "Mill Valley Center",
+    "address" : "141 Camino Alto, Ste  1\nMill Valley, CA, 94941",
+    "phone" : "(415) 380-8797",
+    "service" : ""
+  },
+  "San Francisco Health Center" : {
+    "name" : "San Francisco Health Center",
+    "address" : "1650 Valencia St\nSan Francisco, CA, 94110",
+    "phone" : "(415) 821-1282",
+    "service" : ""
+  },
+  "Ashland Community Health Center" : {
+    "name" : "Ashland Community Health Center",
+    "address" : "99 Central Ave\nAshland , OR, 97520",
+    "phone" : "(541) 482-9741",
+    "service" : ""
+  },
+  "SOU Health & Wellness Center" : {
+    "name" : "SOU Health & Wellness Center",
+    "address" : "560 Indiana St\nAshland , OR, 97520",
+    "phone" : "(541) 522-6136",
+    "service" : ""
+  },
+  "Wellness Center" : {
+    "name" : "Wellness Center",
+    "address" : "602 E Santa Clara St\nSan Jose, CA, 95112-1908",
+    "phone" : "(408) 445-3400",
+    "service" : ""
+  },
+  "La Clinica Women's Health Center" : {
+    "name" : "La Clinica Women's Health Center",
+    "address" : "910 South Central Avenue\nMedford, OR, 97501",
+    "phone" : "(541) 535-6239",
+    "service" : ""
+  },
+  "Asian Health Services and Teen Center" : {
+    "name" : "Asian Health Services and Teen Center",
+    "address" : "818 Webster St\nOakland, CA, 94607",
+    "phone" : "(510) 986-6800",
+    "service" : ""
+  },
+  "Veterans' Village of San Diego" : {
+    "name" : "Veterans' Village of San Diego",
+    "address" : "4141 Pacific Hwy\nSan Diego, CA, 92110-2030",
+    "phone" : "(619) 393-2031",
+    "service" : ""
+  },
+  "Clinica Sierra Vista delano Community Health Center" : {
+    "name" : "Clinica Sierra Vista delano Community Health Center",
+    "address" : "1508 Garces Hwy\nSte 1\nDelano, CA, 93215-3687",
+    "phone" : "(661) 725-4780",
+    "service" : ""
+  },
+  "Green Valley Clinic" : {
+    "name" : "Green Valley Clinic",
+    "address" : "280 Green Vly\nWatsonville, CA, 95076",
+    "phone" : "(831) 722-8666",
+    "service" : ""
+  },
+  "GVHC-Planada" : {
+    "name" : "GVHC-Planada",
+    "address" : "9235 W Broadway\nPlanada, CA, 95365",
+    "phone" : "(209) 382-0253",
+    "service" : ""
+  },
+  "Dmc Women's Care Health Ctr" : {
+    "name" : "Dmc Women's Care Health Ctr",
+    "address" : "201 S B St\nMadera, CA, 93638-3719",
+    "phone" : "(559) 664-4000",
+    "service" : ""
+  },
+  "All for Health, Health for All" : {
+    "name" : "All for Health, Health for All",
+    "address" : "519 E Broadway   520\nGlendale, CA, 91205-1110",
+    "phone" : "(818) 409-3020",
+    "service" : ""
+  },
+  "Mt Baker Planned Parenthood" : {
+    "name" : "Mt Baker Planned Parenthood",
+    "address" : "Bellingham, WA",
+    "phone" : "(360) 734-9007",
+    "service" : "abortion"
+  },
+  "Mt Baker Planned Parenthood" : {
+    "name" : "Mt Baker Planned Parenthood",
+    "address" : "Mt Vernon, WA",
+    "phone" : "(360) 848-1744",
+    "service" : "abortion"
+  },
+  "Cedar River Clinics - Renton" : {
+    "name" : "Cedar River Clinics - Renton",
+    "address" : "Renton, WA",
+    "phone" : "(425) 255-0471",
+    "service" : "abortion"
+  },
+  "All Women's Care" : {
+    "name" : "All Women's Care",
+    "address" : "Seattle, WA",
+    "phone" : "(888) 949-6636",
+    "service" : "abortion"
+  },
+  "Cedar River - Seattle" : {
+    "name" : "Cedar River - Seattle",
+    "address" : "Seattle, WA",
+    "phone" : "(866) 632-6622",
+    "service" : "abortion"
+  },
+  "University of Washington Medical Center" : {
+    "name" : "University of Washington Medical Center",
+    "address" : "Seattle, WA",
+    "phone" : "(206) 598-5500",
+    "service" : "abortion"
+  },
+  "Seattle Medical & Wellness Clinic" : {
+    "name" : "Seattle Medical & Wellness Clinic",
+    "address" : "Seattle, WA",
+    "phone" : "(800) 522-0606",
+    "service" : "abortion"
+  },
+  "Cedar River Clinics - Tacoma" : {
+    "name" : "Cedar River Clinics - Tacoma",
+    "address" : "Tacoma, WA",
+    "phone" : "(800) 572-4223",
+    "service" : "abortion"
+  },
+  "All Women's Health, PLLC" : {
+    "name" : "All Women's Health, PLLC",
+    "address" : "Tacoma, WA",
+    "phone" : "(877) 471-3464",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Columbia Willamette" : {
+    "name" : "Planned Parenthood Columbia Willamette",
+    "address" : "Vancouver, WA",
+    "phone" : "(503)788-7273,\n(888) 875-7820",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Columbia Willamette" : {
+    "name" : "Planned Parenthood Columbia Willamette",
+    "address" : "Beaverton, OR",
+    "phone" : "(503)788-7273,\n(888) 875-7820",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Columbia Willamette" : {
+    "name" : "Planned Parenthood Columbia Willamette",
+    "address" : "Bend, OR",
+    "phone" : "(503)788-7273,\n(888) 875-7820",
+    "service" : "abortion"
+  },
+  "Oregon Health & Science University" : {
+    "name" : "Oregon Health & Science University",
+    "address" : "Portland, OR",
+    "phone" : "(503) 494-3103",
+    "service" : "abortion"
+  },
+  "Women's Health Specialists" : {
+    "name" : "Women's Health Specialists",
+    "address" : "Chico, CA",
+    "phone" : "(530) 891-1917, (800) 714-8151",
+    "service" : "abortion"
+  },
+  "UCLA Hospital and Clinics" : {
+    "name" : "UCLA Hospital and Clinics",
+    "address" : "Los Angeles, CA",
+    "phone" : "(310) 825-5961",
+    "service" : "abortion"
+  },
+  "Family Planning Specialists Medical Group" : {
+    "name" : "Family Planning Specialists Medical Group",
+    "address" : "Oakland, CA",
+    "phone" : "(510) 268-0421",
+    "service" : "abortion"
+  },
+  "Women's Health Specialists" : {
+    "name" : "Women's Health Specialists",
+    "address" : "Redding, CA",
+    "phone" : "(530) 221-0194, (800) 714-8151",
+    "service" : "abortion"
+  },
+  "Women's Health Specialists" : {
+    "name" : "Women's Health Specialists",
+    "address" : "Sacramento, CA",
+    "phone" : "(916) 481-8600, (800) 714-8151",
+    "service" : "abortion"
+  },
+  "Women's Options Center-San Francisco General Hospital Campus" : {
+    "name" : "Women's Options Center-San Francisco General Hospital Campus",
+    "address" : "San Francisco, CA",
+    "phone" : "(415) 206-8476",
+    "service" : "abortion"
+  },
+  "Women's Options Center-UCSF Mt Zion campus" : {
+    "name" : "Women's Options Center-UCSF Mt Zion campus",
+    "address" : "San Francisco, CA",
+    "phone" : "(415) 353-7003",
+    "service" : "abortion"
+  },
+  "Office of Darin Weyhrich" : {
+    "name" : "Office of Darin Weyhrich",
+    "address" : "Boise, ID",
+    "phone" : "(208) 342-2516",
+    "service" : "abortion"
+  },
+  "A-All Women Care" : {
+    "name" : "A-All Women Care",
+    "address" : "Las Vegas, NV",
+    "phone" : "(702) 531-5400",
+    "service" : "abortion"
+  },
+  "A-Z Women's Center" : {
+    "name" : "A-Z Women's Center",
+    "address" : "Las Vegas, NV",
+    "phone" : "(702) 892-0660",
+    "service" : "abortion"
+  },
+  "Birth Control Care Center" : {
+    "name" : "Birth Control Care Center",
+    "address" : "Las Vegas, NV",
+    "phone" : "(800) 255-7889",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Rocky Mountains" : {
+    "name" : "Planned Parenthood of the Rocky Mountains",
+    "address" : "Las Vegas, NV",
+    "phone" : "(702) 878-7776",
+    "service" : "abortion"
+  },
+  "Safe and Sound for Women" : {
+    "name" : "Safe and Sound for Women",
+    "address" : "Las Vegas, NV",
+    "phone" : "(702) 221-SAFE (7233)",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Rocky Mountains" : {
+    "name" : "Planned Parenthood of the Rocky Mountains",
+    "address" : "North Las Vegas, NV",
+    "phone" : "(702) 642-3895",
+    "service" : "abortion"
+  },
+  "West End Women's Medical Group" : {
+    "name" : "West End Women's Medical Group",
+    "address" : "Reno, NV",
+    "phone" : "(775) 827-0616",
+    "service" : "abortion"
+  },
+  "Acacia Women's Center" : {
+    "name" : "Acacia Women's Center",
+    "address" : "Phoenix, AZ",
+    "phone" : "(602) 462-5559",
+    "service" : "abortion"
+  },
+  "Camelback Family Planning" : {
+    "name" : "Camelback Family Planning",
+    "address" : "Phoenix, AZ",
+    "phone" : "(602) 279-2337",
+    "service" : "abortion"
+  },
+  "Desert Star Family Planning" : {
+    "name" : "Desert Star Family Planning",
+    "address" : "Phoenix, AZ",
+    "phone" : "(480) 447-8857",
+    "service" : "abortion"
+  },
+  "Family Planning Associates Medical Group of Phoenix" : {
+    "name" : "Family Planning Associates Medical Group of Phoenix",
+    "address" : "Phoenix, AZ",
+    "phone" : "(602) 553-0440",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Association of Utah" : {
+    "name" : "Planned Parenthood Association of Utah",
+    "address" : "Salt Lake City, UT",
+    "phone" : "(801) 532-1586",
+    "service" : "abortion"
+  },
+  "Wasatch Women’s Center" : {
+    "name" : "Wasatch Women’s Center",
+    "address" : "Salt Lake City, UT",
+    "phone" : "(801) 263-2111",
+    "service" : "abortion"
+  },
+  "Blue Mountain Clinic" : {
+    "name" : "Blue Mountain Clinic",
+    "address" : "Missoula, MT",
+    "phone" : "(406) 721-1646, (800) 727-2546",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Rocky Mountains" : {
+    "name" : "Planned Parenthood of the Rocky Mountains",
+    "address" : "Alamosa, CO",
+    "phone" : "(719) 589-4906",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Rocky Mountains" : {
+    "name" : "Planned Parenthood of the Rocky Mountains",
+    "address" : "Aurora, CO",
+    "phone" : "(303) 369-9682",
+    "service" : "abortion"
+  },
+  "Boulder Abortion Clinic" : {
+    "name" : "Boulder Abortion Clinic",
+    "address" : "Boulder, CO",
+    "phone" : "(303) 447-1361, (800) 535-1287",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Rocky Mountains" : {
+    "name" : "Planned Parenthood Rocky Mountains",
+    "address" : "Boulder, CO",
+    "phone" : "(303) 447-1040",
+    "service" : "abortion"
+  },
+  "Women's Health (Boulder Valley Women's Health Center)" : {
+    "name" : "Women's Health (Boulder Valley Women's Health Center)",
+    "address" : "Boulder, CO",
+    "phone" : "(303) 442-5160",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Rocky Mountains" : {
+    "name" : "Planned Parenthood Rocky Mountains",
+    "address" : "Colorado Springs, CO",
+    "phone" : "(719) 475-7162",
+    "service" : "abortion"
+  },
+  "Comprehensive Women's Health Center" : {
+    "name" : "Comprehensive Women's Health Center",
+    "address" : "Denver, CO",
+    "phone" : "(720) 810-5442",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Rocky Mountains" : {
+    "name" : "Planned Parenthood Rocky Mountains",
+    "address" : "Denver, CO",
+    "phone" : "(303) 321-2458",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Rocky Mountains" : {
+    "name" : "Planned Parenthood Rocky Mountains",
+    "address" : "Durango, CO",
+    "phone" : "(970) 259-4205,\n(800) 472-4884 (NM, CO, AZ, UT)",
+    "service" : "abortion"
+  },
+  "Healthy Futures, PC" : {
+    "name" : "Healthy Futures, PC",
+    "address" : "Englewood, CO",
+    "phone" : "(303) 991-7700,\n(866) 254-8823",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Rocky Mountains" : {
+    "name" : "Planned Parenthood Rocky Mountains",
+    "address" : "Fort Collins, CO",
+    "phone" : "(970) 493-0281",
+    "service" : "abortion"
+  },
+  "Southwestern Women's Options" : {
+    "name" : "Southwestern Women's Options",
+    "address" : "Albuquerque, NM",
+    "phone" : "(505) 242-9592,\n(800) 777-7630",
+    "service" : "abortion"
+  },
+  "University of New Mexico Center for Reproductive Health" : {
+    "name" : "University of New Mexico Center for Reproductive Health",
+    "address" : "Albuquerque, NM",
+    "phone" : "(505) 925-4455",
+    "service" : "abortion"
+  },
+  "Whole Woman's Health of New Mexico" : {
+    "name" : "Whole Woman's Health of New Mexico",
+    "address" : "Las Cruces, NM",
+    "phone" : "(575) 322-3122",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Rocky Mountains" : {
+    "name" : "Planned Parenthood of the Rocky Mountains",
+    "address" : "Santa Fe, NM",
+    "phone" : "(505) 265-9511,\n(800) 877-1238",
+    "service" : "abortion"
+  },
+  "Reproductive Services of Tulsa" : {
+    "name" : "Reproductive Services of Tulsa",
+    "address" : "Tulsa, OK",
+    "phone" : "(918) 665-6400,\n(800) 821-7237",
+    "service" : "abortion"
+  },
+  "Center for Women's Health" : {
+    "name" : "Center for Women's Health",
+    "address" : "Overland Park, KS",
+    "phone" : "(913) 491-6878,\n(800) 733-2404 (KS, MO)",
+    "service" : "abortion"
+  },
+  "South Wind Women's Center" : {
+    "name" : "South Wind Women's Center",
+    "address" : "Wichita, KS",
+    "phone" : "(316) 260-6934",
+    "service" : "abortion"
+  },
+  "Abortionclinicsorg" : {
+    "name" : "Abortionclinicsorg",
+    "address" : "Bellevue, NE",
+    "phone" : "(402) 291-4797,\n(800) 737-3845",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Minnesota, North Dakota, South Dakota" : {
+    "name" : "Planned Parenthood Minnesota, North Dakota, South Dakota",
+    "address" : "Sioux Falls, SD",
+    "phone" : "(605) 361-5100,\n(800) 314-7216",
+    "service" : "abortion"
+  },
+  "Red River Women's Clinic" : {
+    "name" : "Red River Women's Clinic",
+    "address" : "Fargo, ND",
+    "phone" : "(701) 298-9999,\n(888) 928-9009",
+    "service" : "abortion"
+  },
+  "Women's Health Center of Duluth" : {
+    "name" : "Women's Health Center of Duluth",
+    "address" : "Duluth, MN",
+    "phone" : "(218) 727-3352,\n(800) 735-7654",
+    "service" : "abortion"
+  },
+  "Office of Mildred S Hanson, MD" : {
+    "name" : "Office of Mildred S Hanson, MD",
+    "address" : "Minneapolis, MN",
+    "phone" : "(612) 870-1334",
+    "service" : "abortion"
+  },
+  "Whole Woman's Health of the Twin Cities, LLC" : {
+    "name" : "Whole Woman's Health of the Twin Cities, LLC",
+    "address" : "Minneapolis, MN",
+    "phone" : "(612) 332-2311,\n(877) 835-1090",
+    "service" : "abortion"
+  },
+  "Robbinsdale Clinic" : {
+    "name" : "Robbinsdale Clinic",
+    "address" : "Robbinsdale, MN",
+    "phone" : "(763) 533-2534",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Minnesota, North Dakota, South Dakota" : {
+    "name" : "Planned Parenthood Minnesota, North Dakota, South Dakota",
+    "address" : "Rochester, MN",
+    "phone" : "(651) 698-2406",
+    "service" : "abortion"
+  },
+  "Emma Goldman Clinic for Women" : {
+    "name" : "Emma Goldman Clinic for Women",
+    "address" : "Iowa City, IA",
+    "phone" : "(319) 337-2111,\n(800) 848-7684",
+    "service" : "abortion"
+  },
+  "Little Rock Family Planning Services" : {
+    "name" : "Little Rock Family Planning Services",
+    "address" : "Little Rock, AR",
+    "phone" : "(501) 225-3836,\n(800) 272-2183",
+    "service" : "abortion"
+  },
+  "Bossier City Medical Suite" : {
+    "name" : "Bossier City Medical Suite",
+    "address" : "Bossier City, LA",
+    "phone" : "(318) 747-0330,\n(800) 749-7267",
+    "service" : "abortion"
+  },
+  "Hope Medical Group for Women" : {
+    "name" : "Hope Medical Group for Women",
+    "address" : "Shreveport, LA",
+    "phone" : "(318) 221-5500,\n(800) 448-5004",
+    "service" : "abortion"
+  },
+  "Austin Women's Health Center" : {
+    "name" : "Austin Women's Health Center",
+    "address" : "Austin, TX",
+    "phone" : "(512) 443-2888,\n(800) 252-7016",
+    "service" : "abortion"
+  },
+  "Southwestern Women's Surgery Center" : {
+    "name" : "Southwestern Women's Surgery Center",
+    "address" : "Dallas, TX",
+    "phone" : "(214) 742-9310,\n(800) 727-2255",
+    "service" : "abortion"
+  },
+  "Whole Woman's Health" : {
+    "name" : "Whole Woman's Health",
+    "address" : "Fort Worth, TX",
+    "phone" : "(866) 682-1200",
+    "service" : "abortion"
+  },
+  "Houston Women's Clinic" : {
+    "name" : "Houston Women's Clinic",
+    "address" : "Houston, TX",
+    "phone" : "(713) 868-4483,\n(800) 646-4483 (TX, LA)",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Center for Choice, Inc" : {
+    "name" : "Planned Parenthood Center for Choice, Inc",
+    "address" : "Houston, TX",
+    "phone" : "(713) 535-2400",
+    "service" : "abortion"
+  },
+  "Whole Woman's Health" : {
+    "name" : "Whole Woman's Health",
+    "address" : "McAllen, TX",
+    "phone" : "(866) 682-1200",
+    "service" : "abortion"
+  },
+  "Alamo Women's Reproductive Services" : {
+    "name" : "Alamo Women's Reproductive Services",
+    "address" : "San Antonio, TX",
+    "phone" : "(210) 614-4742",
+    "service" : "abortion"
+  },
+  "Whole Woman's Health of San Antonio, LLC" : {
+    "name" : "Whole Woman's Health of San Antonio, LLC",
+    "address" : "San Antonio, TX",
+    "phone" : "(210) 530-4075,\n(877) 835-1090",
+    "service" : "abortion"
+  },
+  "Women's Center of Houston" : {
+    "name" : "Women's Center of Houston",
+    "address" : "Sugarland, TX",
+    "phone" : "(713) 526-8585",
+    "service" : "abortion"
+  },
+  "Jackson Women's Health Organization" : {
+    "name" : "Jackson Women's Health Organization",
+    "address" : "Jackson, MS",
+    "phone" : "(601) 366-2261",
+    "service" : "abortion"
+  },
+  "Alabama Women's Center for Reproductive Alternatives" : {
+    "name" : "Alabama Women's Center for Reproductive Alternatives",
+    "address" : "Hunstville, AL",
+    "phone" : "(256) 536-2231",
+    "service" : "abortion"
+  },
+  "Reproductive Health Services of Montgomery" : {
+    "name" : "Reproductive Health Services of Montgomery",
+    "address" : "Montgomery, AL",
+    "phone" : "(334) 834-4988,\n(800) 277-0156",
+    "service" : "abortion"
+  },
+  "West Alabama Women's Center" : {
+    "name" : "West Alabama Women's Center",
+    "address" : "Tuscaloosa, AL",
+    "phone" : "(205) 556-2026,\n(800) 616-2383",
+    "service" : "abortion"
+  },
+  "Atlanta Center for Women's Choice" : {
+    "name" : "Atlanta Center for Women's Choice",
+    "address" : "Atlanta, GA",
+    "phone" : "(404) 602-4495,\n(866) 471-3469",
+    "service" : "abortion"
+  },
+  "Atlanta Surgi-Center, Dunwoody" : {
+    "name" : "Atlanta Surgi-Center, Dunwoody",
+    "address" : "Atlanta, GA",
+    "phone" : "(770) 454-8080,\n(800) 586-9790",
+    "service" : "abortion"
+  },
+  "Atlanta Women's Medical Center" : {
+    "name" : "Atlanta Women's Medical Center",
+    "address" : "Atlanta, GA",
+    "phone" : "(404) 257-0057",
+    "service" : "abortion"
+  },
+  "Feminist Women's Health Center" : {
+    "name" : "Feminist Women's Health Center",
+    "address" : "Atlanta, GA",
+    "phone" : "(800) 877-6013",
+    "service" : "abortion"
+  },
+  "Summit Medical Center, Atlanta" : {
+    "name" : "Summit Medical Center, Atlanta",
+    "address" : "Atlanta, GA",
+    "phone" : "(800) 537-2985",
+    "service" : "abortion"
+  },
+  "A Preferred Women's Health Center, Augusta" : {
+    "name" : "A Preferred Women's Health Center, Augusta",
+    "address" : "Augusta, GA",
+    "phone" : "(888) 562-7415",
+    "service" : "abortion"
+  },
+  "Columbus Women's Health" : {
+    "name" : "Columbus Women's Health",
+    "address" : "Columbus, GA",
+    "phone" : "(706) 323-8363",
+    "service" : "abortion"
+  },
+  "Savannah Medical Clinic" : {
+    "name" : "Savannah Medical Clinic",
+    "address" : "Savannah, GA",
+    "phone" : "(800) 247-4424",
+    "service" : "abortion"
+  },
+  "A Preferred Women's Health Center, Forest Park" : {
+    "name" : "A Preferred Women's Health Center, Forest Park",
+    "address" : "Forest Park, GA",
+    "phone" : "(888) 562-7415",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of Orlando, Inc" : {
+    "name" : "All Women's Health Center of Orlando, Inc",
+    "address" : "Altamonte Springs, FL",
+    "phone" : "(888) 257-2262",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of South, East and North Florida, Inc" : {
+    "name" : "Planned Parenthood of South, East and North Florida, Inc",
+    "address" : "Boca Raton, FL",
+    "phone" : "(561) 226-4116",
+    "service" : "abortion"
+  },
+  "Office of Philip F Waterman II, MD" : {
+    "name" : "Office of Philip F Waterman II, MD",
+    "address" : "Cape Coral, FL",
+    "phone" : "(239) 574-8200",
+    "service" : "abortion"
+  },
+  "All Women's Health Center - Women's Ob Gyn Center of Countryside" : {
+    "name" : "All Women's Health Center - Women's Ob Gyn Center of Countryside",
+    "address" : "Clearwater, FL",
+    "phone" : "(800) 827-0082",
+    "service" : "abortion"
+  },
+  "Bread & Roses" : {
+    "name" : "Bread & Roses",
+    "address" : "Clearwater, FL",
+    "phone" : "(727) 446-2690",
+    "service" : "abortion"
+  },
+  "All Women's Clinic" : {
+    "name" : "All Women's Clinic",
+    "address" : "Ft Lauderdale, FL",
+    "phone" : "(954) 772-0933",
+    "service" : "abortion"
+  },
+  "Office of Michael J Benjamin, MD" : {
+    "name" : "Office of Michael J Benjamin, MD",
+    "address" : "Ft Lauderdale, FL",
+    "phone" : "(888) 808-7581",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of Ft Myers, Inc" : {
+    "name" : "All Women's Health Center of Ft Myers, Inc",
+    "address" : "Ft Myers, FL",
+    "phone" : "(800) 733-4494",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of Gainesville, Inc" : {
+    "name" : "All Women's Health Center of Gainesville, Inc",
+    "address" : "Gainesville, FL",
+    "phone" : "(800) 869-0440",
+    "service" : "abortion"
+  },
+  "Gainesville Woman Care, Llc" : {
+    "name" : "Gainesville Woman Care, Llc",
+    "address" : "Gainesville, FL",
+    "phone" : "(352) 372-1664",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of Gainesville, Inc" : {
+    "name" : "All Women's Health Center of Gainesville, Inc",
+    "address" : "Gainesville, FL",
+    "phone" : "(800) 869-0440",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of Gainesville, Inc" : {
+    "name" : "All Women's Health Center of Gainesville, Inc",
+    "address" : "Gainesville, FL",
+    "phone" : "(800) 869-0440",
+    "service" : "abortion"
+  },
+  "A Woman's Choice of Jacksonville" : {
+    "name" : "A Woman's Choice of Jacksonville",
+    "address" : "Jacksonville, FL",
+    "phone" : "(800) 298-8874",
+    "service" : "abortion"
+  },
+  "Lakeland Women's Health Center, Inc" : {
+    "name" : "Lakeland Women's Health Center, Inc",
+    "address" : "Lakeland, FL",
+    "phone" : "(800) 733-7541",
+    "service" : "abortion"
+  },
+  "A Choice For Women, Inc" : {
+    "name" : "A Choice For Women, Inc",
+    "address" : "Miami, FL",
+    "phone" : "(305) 630-3363",
+    "service" : "abortion"
+  },
+  "Eve’s Clinic & Referral Center" : {
+    "name" : "Eve’s Clinic & Referral Center",
+    "address" : "Miami, FL",
+    "phone" : "(305) 591-2288",
+    "service" : "abortion"
+  },
+  "Eve Medical Center" : {
+    "name" : "Eve Medical Center",
+    "address" : "Miami, FL",
+    "phone" : "(305) 668-5629",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of South, East and North Florida, Inc, Golden Glades" : {
+    "name" : "Planned Parenthood of South, East and North Florida, Inc, Golden Glades",
+    "address" : "Miami, FL",
+    "phone" : "(305) 285-5535",
+    "service" : "abortion"
+  },
+  "University of Miami OB GYN" : {
+    "name" : "University of Miami OB GYN",
+    "address" : "Miami, FL",
+    "phone" : "(305) 243-2984",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of South, East and North Florida, Inc" : {
+    "name" : "Planned Parenthood of South, East and North Florida, Inc",
+    "address" : "Pembroke Pines, FL",
+    "phone" : "(954) 989-2275",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of Sarasota, Inc" : {
+    "name" : "All Women's Health Center of Sarasota, Inc",
+    "address" : "Sarasota, FL",
+    "phone" : "(800) 347-7066",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of St Petersburg, Inc" : {
+    "name" : "All Women's Health Center of St Petersburg, Inc",
+    "address" : "St Petersburg, FL",
+    "phone" : "(727) 327-3300",
+    "service" : "abortion"
+  },
+  "St Petersburg Woman's Health Center" : {
+    "name" : "St Petersburg Woman's Health Center",
+    "address" : "St Petersburg, FL",
+    "phone" : "(727) 381-6620",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of South, East and North Florida, Inc" : {
+    "name" : "Planned Parenthood of South, East and North Florida, Inc",
+    "address" : "Stuart, FL",
+    "phone" : "(561) 683-9491",
+    "service" : "abortion"
+  },
+  "North Florida Women's Health & Counseling Service" : {
+    "name" : "North Florida Women's Health & Counseling Service",
+    "address" : "Tallahassee, FL",
+    "phone" : "(850) 877-3183",
+    "service" : "abortion"
+  },
+  "All Women's Health Center of North Tampa" : {
+    "name" : "All Women's Health Center of North Tampa",
+    "address" : "Tampa, FL",
+    "phone" : "(800) 733-7907",
+    "service" : "abortion"
+  },
+  "Tampa Woman's Health Center" : {
+    "name" : "Tampa Woman's Health Center",
+    "address" : "Tampa, FL",
+    "phone" : "(813) 977-6176",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of South, East and North Florida, Inc" : {
+    "name" : "Planned Parenthood of South, East and North Florida, Inc",
+    "address" : "Wellington, FL",
+    "phone" : "(561) 296-4919",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of South, East and North Florida, Inc" : {
+    "name" : "Planned Parenthood of South, East and North Florida, Inc",
+    "address" : "West Palm Beach, FL",
+    "phone" : "(561) 683-9491",
+    "service" : "abortion"
+  },
+  "Presidential Women's Center" : {
+    "name" : "Presidential Women's Center",
+    "address" : "West Palm Beach, FL",
+    "phone" : "(561) 686-3859",
+    "service" : "abortion"
+  },
+  "Affiliated Women's Medical Services" : {
+    "name" : "Affiliated Women's Medical Services",
+    "address" : "Milwaukee, WI",
+    "phone" : "(800) 498-0424",
+    "service" : "abortion"
+  },
+  "Scotsdale Women's Center" : {
+    "name" : "Scotsdale Women's Center",
+    "address" : "Detroit, MI",
+    "phone" : "(313) 538-2020",
+    "service" : "abortion"
+  },
+  "Summit Medical Center, Detroit" : {
+    "name" : "Summit Medical Center, Detroit",
+    "address" : "Detroit, MI",
+    "phone" : "(313) 272-8450",
+    "service" : "abortion"
+  },
+  "Eastland Women's Clinic" : {
+    "name" : "Eastland Women's Clinic",
+    "address" : "Eastpointe, MI",
+    "phone" : "(586) 774-4190",
+    "service" : "abortion"
+  },
+  "Women's Health Care Center" : {
+    "name" : "Women's Health Care Center",
+    "address" : "Flint, MI",
+    "phone" : "(800) 336-4471",
+    "service" : "abortion"
+  },
+  "Heritage Clinic" : {
+    "name" : "Heritage Clinic",
+    "address" : "Grand Rapids, MI",
+    "phone" : "(800) 345-1393",
+    "service" : "abortion"
+  },
+  "Women's Health Care Center" : {
+    "name" : "Women's Health Care Center",
+    "address" : "Saginaw, MI",
+    "phone" : "(800) 660-6234",
+    "service" : "abortion"
+  },
+  "Northland Family Planning Southfield" : {
+    "name" : "Northland Family Planning Southfield",
+    "address" : "Southfield, MI",
+    "phone" : "(248) 559-0590, (800) 447-7354 (MI)",
+    "service" : "abortion"
+  },
+  "Clinic for Women" : {
+    "name" : "Clinic for Women",
+    "address" : "Indianapolis, IN",
+    "phone" : "(317) 955-2641, (800) 545-2400 (IN)",
+    "service" : "abortion"
+  },
+  "Indianapolis Women's Center" : {
+    "name" : "Indianapolis Women's Center",
+    "address" : "Indianapolis, IN",
+    "phone" : "(800) 382-9029",
+    "service" : "abortion"
+  },
+  "Akron Women's Medical Group" : {
+    "name" : "Akron Women's Medical Group",
+    "address" : "Akron, OH",
+    "phone" : "(800) 428-3673",
+    "service" : "abortion"
+  },
+  "Women's Med Center of Cincinnati" : {
+    "name" : "Women's Med Center of Cincinnati",
+    "address" : "Cincinnati, OH",
+    "phone" : "(800) 543-7225",
+    "service" : "abortion"
+  },
+  "Cleveland Women's Medical Group" : {
+    "name" : "Cleveland Women's Medical Group",
+    "address" : "Cleveland, OH",
+    "phone" : "(800) 858-8980",
+    "service" : "abortion"
+  },
+  "Preterm" : {
+    "name" : "Preterm",
+    "address" : "Cleveland, OH",
+    "phone" : "(877) 773-8376",
+    "service" : "abortion"
+  },
+  "Women's Med Center of Dayton" : {
+    "name" : "Women's Med Center of Dayton",
+    "address" : "Dayton, OH",
+    "phone" : "(800) 672-6810",
+    "service" : "abortion"
+  },
+  "Allentown Women's Center" : {
+    "name" : "Allentown Women's Center",
+    "address" : "Bethlehem, PA",
+    "phone" : "(877) DIAL-AWC",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Keystone" : {
+    "name" : "Planned Parenthood Keystone",
+    "address" : "Allentown, PA",
+    "phone" : "(610) 439-1033",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Keystone" : {
+    "name" : "Planned Parenthood Keystone",
+    "address" : "Easton, PA",
+    "phone" : "(610) 253-7195",
+    "service" : "abortion"
+  },
+  "Hillcrest Women's Medical Center" : {
+    "name" : "Hillcrest Women's Medical Center",
+    "address" : "Harrisburg, PA",
+    "phone" : "(800) 245-2040",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Keystone" : {
+    "name" : "Planned Parenthood Keystone",
+    "address" : "Harrisburg, PA",
+    "phone" : "(717) 234-2468",
+    "service" : "abortion"
+  },
+  "Drs Berger & Benjamin" : {
+    "name" : "Drs Berger & Benjamin",
+    "address" : "Philadelphia, PA",
+    "phone" : "(215)424-0222",
+    "service" : "abortion"
+  },
+  "Penn Family Planning and Pregnancy Loss Center" : {
+    "name" : "Penn Family Planning and Pregnancy Loss Center",
+    "address" : "Philadelphia, PA",
+    "phone" : "(215) 615-5234",
+    "service" : "abortion"
+  },
+  "Philadelphia Women's Center" : {
+    "name" : "Philadelphia Women's Center",
+    "address" : "Philadelphia, PA",
+    "phone" : "(215) 574-3590",
+    "service" : "abortion"
+  },
+  "University Women's Services" : {
+    "name" : "University Women's Services",
+    "address" : "Pittsburgh, PA",
+    "phone" : "(412) 641-5451",
+    "service" : "abortion"
+  },
+  "Allegheny Reproductive Health Center" : {
+    "name" : "Allegheny Reproductive Health Center",
+    "address" : "Pittsburgh, PA",
+    "phone" : "(800) 221-3988 (regional)",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Keystone" : {
+    "name" : "Planned Parenthood Keystone",
+    "address" : "Reading, PA",
+    "phone" : "(610) 376-8061",
+    "service" : "abortion"
+  },
+  "Delaware County Women's Center" : {
+    "name" : "Delaware County Women's Center",
+    "address" : "Upland, PA",
+    "phone" : "(610) 874-4361",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Keystone" : {
+    "name" : "Planned Parenthood Keystone",
+    "address" : "Warminster, PA",
+    "phone" : "(215) 957-7980f",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Keystone" : {
+    "name" : "Planned Parenthood Keystone",
+    "address" : "York, PA",
+    "phone" : "(717) 845-9681",
+    "service" : "abortion"
+  },
+  "Women's Health Center of West Virginia" : {
+    "name" : "Women's Health Center of West Virginia",
+    "address" : "Charleston, WV",
+    "phone" : "(800) 642-8670",
+    "service" : "abortion"
+  },
+  "Falls Church Health Care Center, LLC" : {
+    "name" : "Falls Church Health Care Center, LLC",
+    "address" : "Falls Church, VA",
+    "phone" : "(800) 228-3561",
+    "service" : "abortion"
+  },
+  "A Capital Women's Health Clinic" : {
+    "name" : "A Capital Women's Health Clinic",
+    "address" : "Henrico, VA",
+    "phone" : "(804) 754-1569",
+    "service" : "abortion"
+  },
+  "A Tidewater Women's Health Clinic" : {
+    "name" : "A Tidewater Women's Health Clinic",
+    "address" : "Norfolk, VA",
+    "phone" : "(757) 461-0011",
+    "service" : "abortion"
+  },
+  "A Preferred Women's Health Center" : {
+    "name" : "A Preferred Women's Health Center",
+    "address" : "Charlotte, NC",
+    "phone" : "(888) 562-7415",
+    "service" : "abortion"
+  },
+  "North Durham Women's Health" : {
+    "name" : "North Durham Women's Health",
+    "address" : "Durham, NC",
+    "phone" : "(919) 908-6449, (855) 443-4892",
+    "service" : "abortion"
+  },
+  "A Woman's Choice of Charlotte" : {
+    "name" : "A Woman's Choice of Charlotte",
+    "address" : "Charlotte, NC",
+    "phone" : "(704) 367-2255",
+    "service" : "abortion"
+  },
+  "Family Reproductive Health, Inc" : {
+    "name" : "Family Reproductive Health, Inc",
+    "address" : "Charlotte, NC",
+    "phone" : "(800) 952-9034",
+    "service" : "abortion"
+  },
+  "Hallmark Women's Clinic" : {
+    "name" : "Hallmark Women's Clinic",
+    "address" : "Fayetteville, NC",
+    "phone" : "(800) 682-8677",
+    "service" : "abortion"
+  },
+  "A Woman's Choice of Greensboro, Inc" : {
+    "name" : "A Woman's Choice of Greensboro, Inc",
+    "address" : "Greensboro, NC",
+    "phone" : "(844) 219-7668",
+    "service" : "abortion"
+  },
+  "A Preferred Women's Health Center, Raleigh" : {
+    "name" : "A Preferred Women's Health Center, Raleigh",
+    "address" : "Raleigh, NC",
+    "phone" : "(888) 562-7415",
+    "service" : "abortion"
+  },
+  "A Woman's Choice of Raleigh" : {
+    "name" : "A Woman's Choice of Raleigh",
+    "address" : "Raleigh, NC",
+    "phone" : "(800) 540-5690",
+    "service" : "abortion"
+  },
+  "Charleston Women's Medical Center" : {
+    "name" : "Charleston Women's Medical Center",
+    "address" : "Charleston, SC",
+    "phone" : "(800) 358-4075",
+    "service" : "abortion"
+  },
+  "Buffalo Womenservies, LLC" : {
+    "name" : "Buffalo Womenservies, LLC",
+    "address" : "Buffalo, NY",
+    "phone" : "(800) 598-3783 (NY)",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "Batavia, NY",
+    "phone" : "(800) 230-7526",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "Buffalo, NY",
+    "phone" : "(800) 230-7526",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the North Country" : {
+    "name" : "Planned Parenthood of the North Country",
+    "address" : "Canton, NY",
+    "phone" : "(315) 386-8821",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Mohawk Hudson, Inc" : {
+    "name" : "Planned Parenthood Mohawk Hudson, Inc",
+    "address" : "Cobleskill, NY",
+    "phone" : "(518) 234-3325",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Southern Finger Lakes" : {
+    "name" : "Planned Parenthood of Southern Finger Lakes",
+    "address" : "Corning, NY",
+    "phone" : "(607) 962-4686",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Southern Finger Lakes" : {
+    "name" : "Planned Parenthood of Southern Finger Lakes",
+    "address" : "Elmira, NY",
+    "phone" : "(607) 734-3313",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Mohawk Hudson" : {
+    "name" : "Planned Parenthood of Mohawk Hudson",
+    "address" : "Glens Falls, NY",
+    "phone" : "(518) 792-0994",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Southern Finger Lakes" : {
+    "name" : "Planned Parenthood of Southern Finger Lakes",
+    "address" : "Hornell, NY",
+    "phone" : "(607) 324-1124",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Southern Finger Lakes" : {
+    "name" : "Planned Parenthood of the Southern Finger Lakes",
+    "address" : "Ithaca, NY",
+    "phone" : "(607) 273-1513",
+    "service" : "abortion"
+  },
+  "All Women's Medical Office Based Surgery, PLLC, New York City" : {
+    "name" : "All Women's Medical Office Based Surgery, PLLC, New York City",
+    "address" : "New York, NY",
+    "phone" : "(212) 333-5000,\n(800) 223-3909",
+    "service" : "abortion"
+  },
+  "Columbia Presbyterian Family Planning and Preventive Services" : {
+    "name" : "Columbia Presbyterian Family Planning and Preventive Services",
+    "address" : "New York, NY",
+    "phone" : "(212) 305-4805",
+    "service" : "abortion"
+  },
+  "Early Options" : {
+    "name" : "Early Options",
+    "address" : "New York, NY",
+    "phone" : "(212) 431-8533",
+    "service" : "abortion"
+  },
+  "Institute for Urban Family Health" : {
+    "name" : "Institute for Urban Family Health",
+    "address" : "New York, NY",
+    "phone" : "(212) 633-0800",
+    "service" : "abortion"
+  },
+  "Parkmed Women's Center" : {
+    "name" : "Parkmed Women's Center",
+    "address" : "New York, NY",
+    "phone" : "(212) 686-6066",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York Niagara Falls - Portage" : {
+    "name" : "Planned Parenthood of Central and Western New York Niagara Falls - Portage",
+    "address" : "Niagara Falls, NY",
+    "phone" : "(716) 831-2200",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York, Niagara Falls- Williams" : {
+    "name" : "Planned Parenthood of Central and Western New York, Niagara Falls- Williams",
+    "address" : "Niagara Falls, NY",
+    "phone" : "(716) 831-2200,\n(800) 230-7526",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "North Tonawanda, NY",
+    "phone" : "(716) 831-2200,\n(800) 230-7526",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "Plattsburgh, NY",
+    "phone" : "(518) 561-4430,\n(800) 230-7526",
+    "service" : "abortion"
+  },
+  "All Women's Medical Office Based Surgery, PLLC, Forest Hills" : {
+    "name" : "All Women's Medical Office Based Surgery, PLLC, Forest Hills",
+    "address" : "Queens, NY",
+    "phone" : "(718) 793-1943,\n(800) 223-3909",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York, Greece" : {
+    "name" : "Planned Parenthood of Central and Western New York, Greece",
+    "address" : "Rochester, NY",
+    "phone" : "(585) 546-2595",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "Rochester, NY",
+    "phone" : "(585) 546-2595",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Mohawk Hudson" : {
+    "name" : "Planned Parenthood Mohawk Hudson",
+    "address" : "Schenectady, NY",
+    "phone" : "(518) 374-5353",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "Syracuse, NY",
+    "phone" : "(315) 475-5540",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Mohawk Hudson" : {
+    "name" : "Planned Parenthood Mohawk Hudson",
+    "address" : "Utica, NY",
+    "phone" : "(315) 724-6146",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the North Country New York, Inc" : {
+    "name" : "Planned Parenthood of the North Country New York, Inc",
+    "address" : "Watertown, NY",
+    "phone" : "(315) 788-8065",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Western New York" : {
+    "name" : "Planned Parenthood of Central and Western New York",
+    "address" : "West Seneca, NY",
+    "phone" : "(800) 230-7526",
+    "service" : "abortion"
+  },
+  "All Women's Medical Office Based Surgery, PLLC, White Plains" : {
+    "name" : "All Women's Medical Office Based Surgery, PLLC, White Plains",
+    "address" : "White Plains, NY",
+    "phone" : "(800) 223-3909",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Northern New England" : {
+    "name" : "Planned Parenthood Northern New England",
+    "address" : "Barre, VT",
+    "phone" : "(802) 476-6696",
+    "service" : "abortion"
+  },
+  "Equality Health Center" : {
+    "name" : "Equality Health Center",
+    "address" : "Concord NH",
+    "phone" : "(603) 225-2739",
+    "service" : "abortion"
+  },
+  "Joan G Lovering Health Center" : {
+    "name" : "Joan G Lovering Health Center",
+    "address" : "Greenland NH",
+    "phone" : "(603) 436-7588",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Northern New England" : {
+    "name" : "Planned Parenthood of Northern New England",
+    "address" : "Keene NH",
+    "phone" : "(603) 352-6898",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Northern New England" : {
+    "name" : "Planned Parenthood Northern New England",
+    "address" : "Manchester NH",
+    "phone" : "(603) 669-7321",
+    "service" : "abortion"
+  },
+  "Reproductive Services of Manchester" : {
+    "name" : "Reproductive Services of Manchester",
+    "address" : "Manchester NH",
+    "phone" : "(603) 622-3162",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Augusta" : {
+    "name" : "Maine Family Planning, Augusta",
+    "address" : "Augusta, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Bangor" : {
+    "name" : "Maine Family Planning, Bangor",
+    "address" : "Bangor, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Mabel Wadsworth Women's Health Center" : {
+    "name" : "Mabel Wadsworth Women's Health Center",
+    "address" : "Bangor, ME",
+    "phone" : "(800) 948-5337",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Calais" : {
+    "name" : "Maine Family Planning, Calais",
+    "address" : "Calais, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Damariscotta" : {
+    "name" : "Maine Family Planning, Damariscotta",
+    "address" : "Damariscotta, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Dexter" : {
+    "name" : "Maine Family Planning, Dexter",
+    "address" : "Dexter, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Ellsworth" : {
+    "name" : "Maine Family Planning, Ellsworth",
+    "address" : "Ellesworth, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Farmington" : {
+    "name" : "Maine Family Planning, Farmington",
+    "address" : "Farmington, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Fort Kent" : {
+    "name" : "Maine Family Planning, Fort Kent",
+    "address" : "Forth Kent, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Houlton" : {
+    "name" : "Maine Family Planning, Houlton",
+    "address" : "Houlton, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Lewiston" : {
+    "name" : "Maine Family Planning, Lewiston",
+    "address" : "Lewiston, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Machias" : {
+    "name" : "Maine Family Planning, Machias",
+    "address" : "Machias, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Norway" : {
+    "name" : "Maine Family Planning, Norway",
+    "address" : "Norway, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Presque Isle" : {
+    "name" : "Maine Family Planning, Presque Isle",
+    "address" : "Presque Isle, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Planned Parenthood Northern New England" : {
+    "name" : "Planned Parenthood Northern New England",
+    "address" : "Portland, ME",
+    "phone" : "(207) 797-8881",
+    "service" : "abortion"
+  },
+  "Maine Family Planning, Rockland" : {
+    "name" : "Maine Family Planning, Rockland",
+    "address" : "Rockland, ME",
+    "phone" : "(207) 626-3243",
+    "service" : "abortion"
+  },
+  "Beth Israel Deaconess Medical Center" : {
+    "name" : "Beth Israel Deaconess Medical Center",
+    "address" : "Boston, MA",
+    "phone" : "(617) 667-7493",
+    "service" : "abortion"
+  },
+  "Boston Medical Center Ob Gyn" : {
+    "name" : "Boston Medical Center Ob Gyn",
+    "address" : "Boston, MA",
+    "phone" : "(617) 414-5593",
+    "service" : "abortion"
+  },
+  "Brigham & Women's Hospital, Family Planning Clinic" : {
+    "name" : "Brigham & Women's Hospital, Family Planning Clinic",
+    "address" : "Boston, MA",
+    "phone" : "(617) 732-4090",
+    "service" : "abortion"
+  },
+  "Four Women Health Services" : {
+    "name" : "Four Women Health Services",
+    "address" : "Attleboro, MA",
+    "phone" : "(508) 222-7555",
+    "service" : "abortion"
+  },
+  "Merrimack Valley Women’s Health Services" : {
+    "name" : "Merrimack Valley Women’s Health Services",
+    "address" : "Haverhill, MA",
+    "phone" : "(978) 688-7222",
+    "service" : "abortion"
+  },
+  "Metro West Women’s Health Services" : {
+    "name" : "Metro West Women’s Health Services",
+    "address" : "Natick, MA",
+    "phone" : "(508) 545-2870",
+    "service" : "abortion"
+  },
+  "Office of Boris Orkin" : {
+    "name" : "Office of Boris Orkin",
+    "address" : "Boston, MA",
+    "phone" : "(888) 410-3678",
+    "service" : "abortion"
+  },
+  "Women's Health Services" : {
+    "name" : "Women's Health Services",
+    "address" : "Boston, MA",
+    "phone" : "(800) 257-2354",
+    "service" : "abortion"
+  },
+  "Hartford GYN Center" : {
+    "name" : "Hartford GYN Center",
+    "address" : "Harford, CT",
+    "phone" : "(860) 525-1900",
+    "service" : "abortion"
+  },
+  "Women's Medical Center of Rhode Island" : {
+    "name" : "Women's Medical Center of Rhode Island",
+    "address" : "Cranston, RI",
+    "phone" : "(401) 467-9111, (800) 877-6339",
+    "service" : "abortion"
+  },
+  "Women's Primary Care Clinic, Women + Infants Hospital" : {
+    "name" : "Women's Primary Care Clinic, Women + Infants Hospital",
+    "address" : "Providence, RI",
+    "phone" : "(401) 274-1122 ext 2748",
+    "service" : "abortion"
+  },
+  "Cherry Hill Women's Center" : {
+    "name" : "Cherry Hill Women's Center",
+    "address" : "Cherry Hill NJ",
+    "phone" : "(800) 877-6331",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Central and Greater Northern New Jersey" : {
+    "name" : "Planned Parenthood of Central and Greater Northern New Jersey",
+    "address" : "Elizabeth, NJ",
+    "phone" : "(908) 351-5384",
+    "service" : "abortion"
+  },
+  "Christiana Care Health Services" : {
+    "name" : "Christiana Care Health Services",
+    "address" : "Newark, DE",
+    "phone" : "(302) 623-4175",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Delaware" : {
+    "name" : "Planned Parenthood of Delaware",
+    "address" : "Dover, DE",
+    "phone" : "(302) 678-5200",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Maryland" : {
+    "name" : "Planned Parenthood of Maryland",
+    "address" : "Annapolis, MD",
+    "phone" : "(410) 576-1414",
+    "service" : "abortion"
+  },
+  "Gynemed Surgi-Center" : {
+    "name" : "Gynemed Surgi-Center",
+    "address" : "Baltimore, MD",
+    "phone" : "(410) 391-1000",
+    "service" : "abortion"
+  },
+  "Hillcrest Clinic of Baltimore" : {
+    "name" : "Hillcrest Clinic of Baltimore",
+    "address" : "Baltimore, MD",
+    "phone" : "(800) 427-2813",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Maryland" : {
+    "name" : "Planned Parenthood of Maryland",
+    "address" : "Baltimore, MD",
+    "phone" : "(410) 576-1414",
+    "service" : "abortion"
+  },
+  "Whole Woman's Health of Baltimore" : {
+    "name" : "Whole Woman's Health of Baltimore",
+    "address" : "Baltimore, MD",
+    "phone" : "(800) 288-9558",
+    "service" : "abortion"
+  },
+  "Germantown Reproductive Health Services" : {
+    "name" : "Germantown Reproductive Health Services",
+    "address" : "Germantown, MD",
+    "phone" : "(888) 684-3599",
+    "service" : "abortion"
+  },
+  "Hagerstown Reproductive Health Services" : {
+    "name" : "Hagerstown Reproductive Health Services",
+    "address" : "Hagerstown, MD",
+    "phone" : "(301) 733-2400, (800) 773-9140 (MD, WV, VA, PA)",
+    "service" : "abortion"
+  },
+  "Prince George's Reproductive Health Services" : {
+    "name" : "Prince George's Reproductive Health Services",
+    "address" : "Hyattsville, MD",
+    "phone" : "(301) 434-2300",
+    "service" : "abortion"
+  },
+  "Femi Care Surgery Center" : {
+    "name" : "Femi Care Surgery Center",
+    "address" : "Owings Mills, MD",
+    "phone" : "(800) 355-0523",
+    "service" : "abortion"
+  },
+  "Potomac Family Planning Center" : {
+    "name" : "Potomac Family Planning Center",
+    "address" : "Rockville, MD",
+    "phone" : "(800) 260-2464",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of Maryland" : {
+    "name" : "Planned Parenthood of Maryland",
+    "address" : "Easton, MD",
+    "phone" : "(410) 576-1414",
+    "service" : "abortion"
+  },
+  "Choices" : {
+    "name" : "Choices",
+    "address" : "Memphis, TN",
+    "phone" : "(901) 274-3550",
+    "service" : "abortion"
+  },
+  "Silver Spring Family Planning" : {
+    "name" : "Silver Spring Family Planning",
+    "address" : "Silver Spring, MD",
+    "phone" : "(240) 691-4390",
+    "service" : "abortion"
+  },
+  "Carafem" : {
+    "name" : "Carafem",
+    "address" : "Chevy Chase, MD",
+    "phone" : "(855) 729-2272",
+    "service" : "abortion"
+  },
+  "Planned Parenthood of the Greater Memphis Region" : {
+    "name" : "Planned Parenthood of the Greater Memphis Region",
+    "address" : "Memphis, TN",
+    "phone" : "(901) 725-1717,\n(866) 711-1717",
+    "service" : "abortion"
+  },
+  "The Women's Center" : {
+    "name" : "The Women's Center",
+    "address" : "Nashville, TN",
+    "phone" : "(615) 331-1200,\n(800) 847-5107",
+    "service" : "abortion"
+  }
+}

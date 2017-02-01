@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+            <script src="https://use.fontawesome.com/a686412af4.js"></script>
+<script src="https://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+            
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" rel="stylesheet">
+            <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+            <link rel="stylesheet" href="../main.css">
+            <title>PlannedB</title>
+            <style>
+            body { 
+                margin:0; padding:0;
+                overflow-y:hidden;
+                overflow-x:hidden;
+            }
+                
+                p {
+                    font-size:18px;
+                }
+                #wrapper {
+                    width: 50%;
+                    height:100%;
+                    margin-left: 25%;
+                    margin-top: 10%;
+                    color:#fff;
+                }
+                #wrapper ul {
+                    list-style: none;
+                }
+                #wrapper li {
+                    font-size:16px;
+                    line-height: 18px;
+                }
+                button {
+                  -webkit-border-radius: 4;
+                  -moz-border-radius: 4;
+                  border-radius: 4px;
+                  font-family: 'Source Sans Pro';
+                  color: #ffffff;
+                  font-size: 18px;
+                  padding: 10px 20px 10px 20px;
+                  border: solid #ffffff 3px;
+                  text-decoration: none;
+                    background-color:#ACA5D6;
+                    -webkit-transition: color 0.5s;
+                -webkit-transition: background-color 0.5s;
+                }
+                
+
+                button:hover {
+                  color: #ACA5D6;
+                    background-color: #fff;
+                  text-decoration: none;
+                    -webkit-transition: color 0.5s;
+                -webkit-transition: background-color 0.5s;
+                }
+                
+                #result {
+                    display:none;
+                }
+                
+                input[type=checkbox] {
+                    margin-right:20px;
+                    border: 2px #fff solid;
+                    height: 20px;
+                    width: 20px;
+                    vertical-align: middle;
+                }
+                
+                input[type="text"] {
+                  padding: 10px;
+                  border: solid 3px #fff;
+                    background-color:#ACA5D6;
+                    color:#fff;
+                    width:20%;
+                    border-radius:4px;
+                }
+                input[type="text"]:focus {
+                    outline:#fff;
+                }
+                #footer {
+                    position:absolute;
+                    bottom: 0px;
+                    padding: 2% 0 0 0!important;
+                }
+        </style>
+        
+        </head>
+        
+        <body>
+        <nav class="navbar navbar-default" id="top">
+        <a class="navbar-brand" href="/index.html"> <img alt="Brand" src="../outlinelogo.png" width="40px"> </a>
+    <ul class="nav navbar-nav">
+          
+          <li><a href="/index.html" id="no1">Return Home</a></li>
+          <li><a href="https://secure.ppaction.org/site/Donation2?df_id=12913&12913.donation=form1" id="no3">Donate to PP</a></li>
+        </ul>
+    </nav>
+            
+            
+        <div id="wrapper">
+          <h2>  Check your eligibility for free or low-cost screenings:</h2>
+<ul>
+<li> <input type="checkbox" value="None" id="forty"/> You are between 40 and 64 years of age for breast cancer screening.</li>
+<li> <input type="checkbox" value="None" id="twentyone" /> You are between 21 and 64 years of age for cervical cancer screening.</li>
+<li> <input type="checkbox" value="None" id="insurance"/> You have no insurance, or your insurance does not cover screening exams.</li>
+<li> <input type="checkbox" value="None" id="income" /> Your yearly income is at or below 250% of the federal poverty level.</li>
+    </ul>
+            <p>State (e.g. CA): <input type="text" id="state"></p> 
+            
+            <center>
+            <button type="button" id="checkButton">Check</button>
+                <p></p>
+            <div id="result">
+                <p>You may be eligible!</p>
+                <p><div id="number"></div></p>
+            </div>
+            </center>
+        </div>
+        <div id="footer">
+           &copy; 2017 C. Mo, C. Bourbonnais, M. Dudley.
+        </div>
+        <script>
+            $(document).ready(function(){
+                var callThis = "";
+                $("button").click(function(){
+                    if ($("#forty").is(":checked") ||  $("#twentyone").is(":checked") ||
+                       $("#insurance").is(":checked") || $("#income").is(":checked")) {
+                    // any one is checked
+                        // TODO: if state box is empty, ask to fill it in
+                        var state = $("#state").val();
+                        
+                        if (!state) {
+                            alert("Please fill in your state");
+                        }
+                        
+                        switch(state.toUpperCase()) {
+                            case "AK":
+                                callThis = "1 (800) 410-6266";
+                                break;
+                            case "AL":
+                                callThis = "1 (877) 252-3324";
+                                break;
+                            case "AZ":
+                            callThis = "1 (888) 257-8502";
+                            break;
+                            case "AR":
+                            callThis = "1 (877) 670-2273"
+                            break;
+                            case "CA":
+                            callThis = "1 (800) 511-2300";
+                            break;
+                            case "CO":
+                            callThis = "1 (866) 951-9355";
+                            break;
+                            case "CT":
+                            callThis = "(860) 509-7804";
+                            break;
+                            case "DC":
+                                callThis = "(202) 442-5900 or (202) 442-9128 (Spanish)";
+                                break;
+                            case "DE":
+                            callThis = "1 (800) 464-4357";
+                            break;
+                            case "FL":
+                            callThis = "1 (800) 227-2345"
+                            break;
+                            case "GA":
+                            callThis = "(404) 657-7735";
+                            break;
+                            case "HI":
+                            callThis = "(808) 692-7480";
+                            break;
+                            case "ID":
+                            callThis = "1 (800) 926-2588";
+                            break;
+                            case "IL":
+                            callThis = "1 (888) 522-1282";
+                            break;
+                            case "IN":
+                            callThis = "1 (800) 433-0746";
+                            break;
+                            case "IA":
+                            callThis = "1 (800) 369-2229";
+                            break;
+                            case "KS":
+                            callThis = "1 (877) 277-1368";
+                            break;
+                            case "KY":
+                            callThis = "1 (800) 462-6122 or 1 (800) 4-CANCER";
+                            break;
+                            case "LA":
+                            callThis = "1 (888) 599-1073"
+                            break;
+                            case "ME":
+                            callThis = "1 (800) 350-5180"
+                            break;
+                            case "MD":
+                            callThis = "1 (800) 477-9774";
+                            break;
+                            case "MA":
+                            callThis = "1 (877) 414-4447";
+                            break;
+                            case "MI":
+                            callThis = "1 (800) 922-6266";
+                            break;
+                            case "MN":
+                            callThis = "1 (888) 643-2584";
+                            break;
+                            case "MS":
+                            callThis = "1 (800) 721-7222";
+                            break;
+                            case "MO":
+                            callThis = "";
+                            break;
+                            case "MT":
+                            callThis = "1 (888) 803-9343";
+                            break;
+                            case "NE":
+                            callThis = "(402) 471-0929 (Lincoln) or 1 (800) 532-2227";
+                            break;
+                            case "NV":
+                            callThis = "1 (877) 385-2345, (775) 284-8989 or (702) 489-3400";
+                            break;
+                            case "NH":
+                            callThis = "1 (800) 852-3345 ext. 4931";
+                            break;
+                            case "NJ":
+                            callThis = "1 (800) 328-3838";
+                            break;
+                            case "NM":
+                            callThis = "1 (877) 852-2585";
+                            break;
+                            case "NY":
+                            callThis = "1 (866) 442-2262"
+                            break;
+                            case "NC":
+                            callThis = "(919) 707-5300";
+                            break;
+                            case "ND":
+                            callThis = "1 (800) 449-6636";
+                            break;
+                            case "OH":
+                            callThis = "1 (800) 4-CANCER";
+                            break;
+                            case "OK":
+                            callThis = "1 (888) 669-5934";
+                            break;
+                            case "OR":
+                            callThis = "1 (877) 255-7070";
+                            break;
+                            case "PA":
+                            callThis = "1 (888) 599-1073"
+                            break;
+                            case "RI":
+                            callThis = "(401) 222-4324";
+                            break;
+                            case "SC":
+                            callThis = "1 (800) 227-2345";
+                            break;
+                            case "SD":
+                            callThis = "(800) 738-2301";
+                            break;
+                            case "TN":
+                            callThis = "1 (877) 969-6636";
+                            break;
+                            case "TX":
+                            callThis = "";
+                            break;
+                            case "UT":
+                            callThis = ""
+                            break;
+                            case "VT":
+                            callThis = "1 (800) 508-2222 or TDD: 1 (800) 319-3141";
+                            break;
+                            case "VA":
+                            callThis = "1 (866) 395-4968";
+                            break;
+                            case "WA":
+                            callThis = "1 (888) 438-2247";
+                            break;
+                            case "WV":
+                            callThis = "1 (800) 642-8522";
+                            break;
+                            case "WI":
+                            callThis = "";
+                            break;
+                            case "WY":
+                                callThis = "1 (800) 264-1296";
+                                break;
+                            default:
+                                callThis = ""; 
+                        }
+                        callThis = "Call " + callThis + " for more information."
+                        if (state !== "" && callThis !== "") {
+                            $("#result").css("display", "block");
+                            $("#number").html(callThis);
+                        } else {
+                            $("#result").html("Unfortunately, your state has no support for reduced-cost screenings.");
+                            $("#result").css("display", "block");
+                        }
+                    } else {
+                        $("#result").html("Unfortunately, you may not qualify.");
+                            $("#result").css("display", "block");
+                    }
+                });
+            });
+            
+            /*
+
+            */
+            </script>
+        </body>
+            </html>
