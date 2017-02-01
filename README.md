@@ -7,4 +7,4 @@ some of the most economically vulnerable areas. This site aims to provide
 options for people looking to receive this care, with or without Planned
 Parenthood access.
 
-devpost link: devpost.com/software/plannedb
+[devpost link](https://devpost.com/software/plannedb)
